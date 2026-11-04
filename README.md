@@ -1,0 +1,1 @@
+potrebbe contenere contenuti protetti. si pubblica con intento puramente didattico e illustrativo. non mi assumo alcuna responsabilità per usi non consentiti. non mi assumo alcuna responsabilità per eventuali danni di ogni tipo causati dall'utilizzo di questo codice. codice generato dall'ai, pertanto non è previsto alcun supporto o garanzia.
