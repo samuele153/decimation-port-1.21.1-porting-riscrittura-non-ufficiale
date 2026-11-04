@@ -1,0 +1,1474 @@
+DECIMATION PACK - REPORT (script v3)
+jar     : Decimation.jar
+size    : 143.6 MB (150597268 byte)
+sha256  : f33a3ff6bacbce45f6a44d3df420e6b3644a02a94685055087ff7389212ed1c4
+entries : 20681 file, 196.3 MB non compressi
+limite per zip: 24.00 MB
+
+== PARTI ==
+decimation_part_01_of_09_codice.zip                23.98 MB   8150 voci
+decimation_part_02_of_09_codice.zip                 6.87 MB   8527 voci
+decimation_part_03_of_09_dati.zip                   4.91 MB    615 voci
+decimation_part_04_of_09_immagini.zip              23.98 MB     29 voci
+decimation_part_05_of_09_immagini.zip              23.98 MB    113 voci
+decimation_part_06_of_09_immagini.zip              17.86 MB   1807 voci
+decimation_part_07_of_09_audio.zip                 23.98 MB    170 voci
+decimation_part_08_of_09_audio.zip                 23.98 MB    920 voci
+decimation_part_09_of_09_audio.zip                  2.57 MB    350 voci
+
+== FILE LASCIATI FUORI ==
+nessuno: tutto il contenuto del jar e' negli zip
+
+== ESTENSIONI (per peso) ==
+.png           1948 file     62.4 MB
+.class        16629 file     62.4 MB
+.ogg           1440 file     48.0 MB
+.bmodel         215 file      8.0 MB
+.so              13 file      4.3 MB
+.dll              6 file      3.3 MB
+.sf               1 file      2.6 MB
+.mf               1 file      2.6 MB
+.a                2 file      1.1 MB
+.dylib            2 file    624.3 KB
+.anib           354 file    411.5 KB
+.jnilib           1 file    176.8 KB
+.properties      23 file    144.8 KB
+.xml             13 file     61.6 KB
+.lang             1 file     57.1 KB
+.json             1 file     54.2 KB
+.gz               1 file     33.2 KB
+.txt              3 file     28.5 KB
+(nessuna)         2 file     11.4 KB
+.dsa              1 file      1.1 KB
+.mcmeta          21 file       987 B
+.list             1 file       813 B
+.gif              1 file       420 B
+.driver           1 file        24 B
+
+== CARTELLE (profondita' 3, per peso) ==
+assets/deci/textures                                           1960 file     62.4 MB
+assets/deci/sounds                                             1440 file     48.0 MB
+it/unimi/dsi                                                  10772 file     41.3 MB
+assets/deci/models                                              215 file      8.0 MB
+META-INF                                                          8 file      5.3 MB
+com/mysql/cj                                                    915 file      5.1 MB
+net/decimation/mod                                             1164 file      4.4 MB
+com/sun/jna                                                     119 file      2.9 MB
+gnu/trove/map                                                   723 file      2.3 MB
+net/dv8tion/jda                                                 627 file      2.1 MB
+natives/win32-x86-64                                              1 file      1.8 MB
+org/apache/commons                                              518 file      1.6 MB
+natives/linux-x86-64                                              1 file      1.3 MB
+gnu/trove/impl                                                  319 file      1.3 MB
+natives/linux-x86                                                 1 file      1.1 MB
+gnu/trove/decorator                                             273 file    835.4 KB
+linux-x86-64                                                      1 file    638.1 KB
+com/esotericsoftware/kryo                                       170 file    545.9 KB
+com/google/gson                                                 173 file    440.9 KB
+assets/deci/animations                                          354 file    411.5 KB
+win32-x86-64                                                      1 file    387.1 KB
+natives/darwin                                                    1 file    375.4 KB
+natives/win32-x86                                                 1 file    372.0 KB
+win32-x86                                                         1 file    297.6 KB
+gnu/trove/list                                                   60 file    281.5 KB
+okhttp3                                                          77 file    251.2 KB
+darwin                                                            1 file    248.9 KB
+natives/linux-arm                                                 1 file    245.3 KB
+natives/linux-aarch64                                             1 file    242.1 KB
+com/neovisionaries/ws                                            61 file    226.7 KB
+okio                                                             43 file    145.4 KB
+com/esotericsoftware/kryonet                                     48 file    139.9 KB
+com/esotericsoftware/reflectasm                                  23 file    138.6 KB
+okhttp3/internal/http2                                           39 file    129.7 KB
+com/esotericsoftware/jsonbeans                                   22 file    109.4 KB
+
+== mcmod.info ==
+(assente)
+
+== MANIFEST.MF e firma ==
+Manifest-Version: 1.0
+Target-Platforms: win32-x86-64, win32-x86, linux-x86-64, darwin
+Implementation-Version: 1.3.1
+
+Name: it/unimi/dsi/fastutil/bytes/Byte2ObjectLinkedOpenHashMap$EntryIt
+ erator.class
+SHA-256-Digest: n/w70/72Gh0haiDhVjXEf3q2rRs5AZgQJZXquipwrHs=
+
+Name: it/unimi/dsi/fastutil/ints/Int2ReferenceRBTreeMap$Submap.class
+SHA-256-Digest: 5kc5YPekESXaBKZkXgZStkJF81kN+hgPxiltRp8SPNk=
+
+Name: it/unimi/dsi/fastutil/chars/AbstractChar2LongSortedMap$ValuesIte
+ rator.class
+SHA-256-Digest: 3kDtcyvqlPxkbAU6wBRt4pMeUD/R93oytRloqfgr01E=
+
+Name: assets/deci/sounds/vehicle/hummer/idle.ogg
+SHA-256-Digest: zRan/9jEVTuab1T68usVv0srv3T8g+Hz5MtYEOaRufc=
+
+Name: net/decimation/mod/client/model/blocks/props/ModelHangingPlayer.
+ class
+SHA-256-Digest: mn8tDG3ThPGx5WpPb9TKI8TD3//ng6d+Oe7Xo88x97I=
+
+Name: com/mysql/cj/jdbc/MysqlSavepoint.class
+SHA-256-Digest: tnM2MhuwcbTX7Tf+G1euOtkp0WXTgFK7zBypOGeBqAs=
+
+Name: it/unimi/dsi/fastutil/chars/AbstractChar2ObjectMap$1$1.class
+SHA-256-Digest: AdYkFrwumeVUSDIYDQNGKQ/BmcriXFgWBy5sqUNbW5E=
+
+Name: it/unimi/dsi/fastutil/doubles/DoubleHeaps.class
+SHA-256-Digest: VRq2LT1GfdfQonNsk2/A+uUll7ENcFIgDGsrNhe76aA=
+
+Name: it/unimi/dsi/fastutil/bytes/Byte2IntArrayMap.class
+SHA-256-Digest: 7EueoX0WZgmJyT+snwyQhiOPIWIhC+bwMNC4Y40oR18=
+
+Name: net/dv8tion/jda/core/entities/Guild$Timeout.class
+SHA-256-Digest: pDskzJGMQzWwUSOAozJfsKbYWL5sfnXA1NFxkCdQ1Io=
+
+Name: it/unimi/dsi/fastutil/ints/AbstractInt2CharMap$1$1.class
+SHA-256-Digest: PdamsOQ2bf/GgbT4QIKlBHO1eEbvhlYMVSswr2maOQA=
+
+Name: it/unimi/dsi/fastutil/objects/Reference2CharMap$Entry.class
+SHA-256-Digest: VRdB0Snf5wNefgBRCKYcCqTrJci7Of+1CxyN4vnIj04=
+
+Name: it/unimi/dsi/fastutil/doubles/Double2IntLinkedOpenHashMap$MapEnt
+ ry.class
+SHA-256-Digest: swCDxqZSmU/IWZ7FWohzYrVwuk42oOnNVD87SGgxlMw=
+
+Name: it/unimi/dsi/fastutil/ints/Int2BooleanSortedMap$FastSortedEntryS
+ et.class
+SHA-256-Digest: plo8EKKggCU1X37bciVimuftU3vGC0ftbM/LegxRNsA=
+
+Name: com/google/gson/internal/Primitives.class
+SHA-256-Digest: bywChPycbns1XpufDF+m224ti3lG7FyaC+5Jtdxt8U4=
+
+Name: it/unimi/dsi/fastutil/longs/Long2ShortAVLTreeMap$2.class
+SHA-256-Digest: sjqEhtETdLDO5ge/6O/mV602Pq99tkprgWVfFqRmGlk=
+
+Name: it/unimi/dsi/fastutil/objects/Object2ShortRBTreeMap$Submap$KeySe
+ t.class
+SHA-256-Digest: xUoAmZ3ArCZm0d4gHCQZEeyYBy3Mr20J7fGMfxN65LY=
+
+Name: it/unimi/dsi/fastutil/shorts/AbstractShort2CharSortedMap$KeySet.
+ class
+SHA-256-Digest: xbV6hflXA5nHCFwWadMPbBvzHmcfYXBnaAaJ24VY3Hk=
+
+Name: net/decimation/mod/common/block/interactive/LocksBlock.class
+SHA-256-Digest: tigpw48LUWnaEzz2GwHteiNWQ05ua/53AoAmuDKKKr0=
+
+Name: assets/deci/sounds/guns/rifle/svt40/magIn.ogg
+SHA-256-Digest: t1Xb9Yv90IYeT8oeUSDzfs3OQOwP+QpS7xbxEOfM/YA=
+
+Name: assets/deci/sounds/blocks/powergenerator/charge.ogg
+SHA-256-Digest: XxE3WsjQGOF91twRgEdQST4O7N/A0TKpY3Nyv+WhqXg=
+
+Name: assets/deci/textures/model/guns/smg/mp7/mp7.png
+SHA-256-Digest: 435ROSNrdqwWgnydDVPbvF1wzLzPprqA2ysQLJXS9O8=
+
+Name: i
+jar firmato: SI ['META-INF/SCOTTEHB.SF', 'META-INF/SCOTTEHB.DSA']
+
+== ARCHIVI ANNIDATI ==
+(nessuno)
+
+== CLASSI ==
+classi lette: 16629  (non valide/illeggibili: 0)
+versione bytecode (major): 46: 19, 49: 2010, 50: 818, 51: 244, 52: 13538   [50=Java6, 51=Java7, 52=Java8]
+classi con nome cortissimo (<=2 caratteri): 5  -> codice leggibile
+-- pacchetti principali (profondita' 3)
+ 10772  it/unimi/dsi
+  1164  net/decimation/mod
+   906  com/mysql/cj
+   723  gnu/trove/map
+   627  net/dv8tion/jda
+   518  org/apache/commons
+   319  gnu/trove/impl
+   273  gnu/trove/decorator
+   173  com/google/gson
+   170  com/esotericsoftware/kryo
+   106  com/sun/jna
+    77  okhttp3
+    74  gnu/trove/iterator
+    73  gnu/trove/procedure
+    61  com/neovisionaries/ws
+    60  gnu/trove/list
+    48  com/esotericsoftware/kryonet
+    43  okio
+    40  com/boehmod/lib
+    39  okhttp3/internal/http2
+    32  gnu/trove/set
+    25  org/objenesis/instantiator
+    24  javax/annotation
+    23  com/esotericsoftware/reflectasm
+    22  com/esotericsoftware/jsonbeans
+    21  org/json
+    16  org/slf4j/helpers
+    15  okhttp3/internal/cache
+    14  gnu/trove/stack
+    13  okhttp3/internal/http
+
+== CLASSI INTERESSANTI (menu, eventi Forge, rete) ==
+21  net/decimation/mod/client/gui/menu/GuiCustomMainMenu  super=net/decimation/mod/client/gui/api/GuiCustomScreen  [GuiMainMenu, com/esotericsoftware, kryonet, GuiSelectWorld, GuiMultiplayer, GuiScreen, GuiButton, func_73866_w_, func_146284_a, func_73863_a, func_147108_a]
+19  net/decimation/mod/client/events/EventHandlerClientTick  super=java/lang/Object  [GuiMainMenu, GuiOpenEvent, com/esotericsoftware, kryonet, GuiScreen, SubscribeEvent, func_147108_a]
+13  net/decimation/mod/Decimation  super=java/lang/Object  [Lcpw/mods/fml/common/Mod;, com/esotericsoftware, kryonet, java/net/URL]
+12  com/esotericsoftware/kryonet/Client  super=com/esotericsoftware/kryonet/Connection  [com/esotericsoftware, kryonet, java/net/Socket, java/net/DatagramSocket]
+12  com/esotericsoftware/kryonet/Server  super=java/lang/Object  [com/esotericsoftware, kryonet, java/net/Socket, java/net/DatagramSocket]
+12  com/esotericsoftware/kryonet/UdpConnection  super=java/lang/Object  [com/esotericsoftware, kryonet, java/net/Socket, java/net/DatagramSocket]
+11  net/decimation/mod/utilities/utils/Utils_Updater  super=java/lang/Object  [com/esotericsoftware, kryonet, java/net/URL, GuiScreen, func_147108_a]
+10  net/decimation/mod/client/gui/menu/Gui_Menu_Home  super=net/decimation/mod/client/gui/menu/GuiCustomMainMenu  [com/esotericsoftware, kryonet, GuiButton, func_73866_w_, func_146284_a, func_73863_a]
+10  net/decimation/mod/server/handlers/Handler_Server_Events  super=java/lang/Object  [com/esotericsoftware, kryonet, java/net/URL, SubscribeEvent]
+ 9  com/esotericsoftware/kryonet/Connection  super=java/lang/Object  [com/esotericsoftware, kryonet, java/net/Socket]
+ 9  com/esotericsoftware/kryonet/ServerDiscoveryHandler$1  super=java/lang/Object  [com/esotericsoftware, kryonet, java/net/Socket]
+ 9  com/esotericsoftware/kryonet/TcpConnection  super=java/lang/Object  [com/esotericsoftware, kryonet, java/net/Socket]
+ 8  net/decimation/mod/client/events/EventHandlerClientKeyboard  super=java/lang/Object  [com/esotericsoftware, kryonet, GuiScreen, SubscribeEvent]
+ 8  net/decimation/mod/client/gui/menu/Gui_Menu_ServersList  super=net/decimation/mod/client/gui/menu/GuiCustomMainMenu  [com/esotericsoftware, kryonet, func_73866_w_, func_73863_a]
+ 8  net/decimation/mod/client/gui/menu/Gui_Menu_ServersList_Community  super=net/decimation/mod/client/gui/menu/GuiCustomMainMenu  [com/esotericsoftware, kryonet, func_73866_w_, func_73863_a]
+ 8  net/decimation/mod/utilities/net/client_network/MessageListener_Client  super=com/esotericsoftware/kryonet/Listener  [com/esotericsoftware, kryonet, GuiScreen, func_147108_a]
+ 7  net/decimation/mod/common/common_events/CommonEvents  super=java/lang/Object  [com/esotericsoftware, kryonet, SubscribeEvent]
+ 6  com/boehmod/lib/network/api/ClientNetworkConnection  super=java/lang/Object  [com/esotericsoftware, kryonet]
+ 6  com/boehmod/lib/network/api/ServerNetworkConnection  super=java/lang/Object  [com/esotericsoftware, kryonet]
+ 6  com/esotericsoftware/kryonet/ClientDiscoveryHandler  super=java/lang/Object  [com/esotericsoftware, kryonet]
+ 6  com/esotericsoftware/kryonet/ClientDiscoveryHandler$1  super=java/lang/Object  [com/esotericsoftware, kryonet]
+ 6  com/esotericsoftware/kryonet/EndPoint  super=java/lang/Object  [com/esotericsoftware, kryonet]
+ 6  com/esotericsoftware/kryonet/FrameworkMessage  super=java/lang/Object  [com/esotericsoftware, kryonet]
+ 6  com/esotericsoftware/kryonet/FrameworkMessage$DiscoverHost  super=java/lang/Object  [com/esotericsoftware, kryonet]
+ 6  com/esotericsoftware/kryonet/FrameworkMessage$KeepAlive  super=java/lang/Object  [com/esotericsoftware, kryonet]
+ 6  com/esotericsoftware/kryonet/FrameworkMessage$Ping  super=java/lang/Object  [com/esotericsoftware, kryonet]
+ 6  com/esotericsoftware/kryonet/FrameworkMessage$RegisterTCP  super=java/lang/Object  [com/esotericsoftware, kryonet]
+ 6  com/esotericsoftware/kryonet/FrameworkMessage$RegisterUDP  super=java/lang/Object  [com/esotericsoftware, kryonet]
+ 6  com/esotericsoftware/kryonet/JsonSerialization  super=java/lang/Object  [com/esotericsoftware, kryonet]
+ 6  com/esotericsoftware/kryonet/KryoNetException  super=java/lang/RuntimeException  [com/esotericsoftware, kryonet]
+ 6  com/esotericsoftware/kryonet/KryoSerialization  super=java/lang/Object  [com/esotericsoftware, kryonet]
+ 6  com/esotericsoftware/kryonet/Listener  super=java/lang/Object  [com/esotericsoftware, kryonet]
+ 6  com/esotericsoftware/kryonet/Listener$LagListener  super=com/esotericsoftware/kryonet/Listener$QueuedListener  [com/esotericsoftware, kryonet]
+ 6  com/esotericsoftware/kryonet/Listener$LagListener$1  super=java/lang/Object  [com/esotericsoftware, kryonet]
+ 6  com/esotericsoftware/kryonet/Listener$QueuedListener  super=com/esotericsoftware/kryonet/Listener  [com/esotericsoftware, kryonet]
+ 6  com/esotericsoftware/kryonet/Listener$QueuedListener$1  super=java/lang/Object  [com/esotericsoftware, kryonet]
+ 6  com/esotericsoftware/kryonet/Listener$QueuedListener$2  super=java/lang/Object  [com/esotericsoftware, kryonet]
+ 6  com/esotericsoftware/kryonet/Listener$QueuedListener$3  super=java/lang/Object  [com/esotericsoftware, kryonet]
+ 6  com/esotericsoftware/kryonet/Listener$QueuedListener$4  super=java/lang/Object  [com/esotericsoftware, kryonet]
+ 6  com/esotericsoftware/kryonet/Listener$ReflectionListener  super=com/esotericsoftware/kryonet/Listener  [com/esotericsoftware, kryonet]
+ 6  com/esotericsoftware/kryonet/Listener$ThreadedListener  super=com/esotericsoftware/kryonet/Listener$QueuedListener  [com/esotericsoftware, kryonet]
+ 6  com/esotericsoftware/kryonet/Serialization  super=java/lang/Object  [com/esotericsoftware, kryonet]
+ 6  com/esotericsoftware/kryonet/Server$1  super=com/esotericsoftware/kryonet/Listener  [com/esotericsoftware, kryonet]
+ 6  com/esotericsoftware/kryonet/ServerDiscoveryHandler  super=java/lang/Object  [com/esotericsoftware, kryonet]
+ 6  com/esotericsoftware/kryonet/rmi/ObjectSpace  super=java/lang/Object  [com/esotericsoftware, kryonet]
+ 6  com/esotericsoftware/kryonet/rmi/ObjectSpace$1  super=com/esotericsoftware/kryonet/Listener  [com/esotericsoftware, kryonet]
+ 6  com/esotericsoftware/kryonet/rmi/ObjectSpace$1$1  super=java/lang/Object  [com/esotericsoftware, kryonet]
+ 6  com/esotericsoftware/kryonet/rmi/ObjectSpace$2  super=java/lang/Object  [com/esotericsoftware, kryonet]
+ 6  com/esotericsoftware/kryonet/rmi/ObjectSpace$3  super=com/esotericsoftware/kryo/serializers/FieldSerializer  [com/esotericsoftware, kryonet]
+ 6  com/esotericsoftware/kryonet/rmi/ObjectSpace$4  super=com/esotericsoftware/kryo/Serializer  [com/esotericsoftware, kryonet]
+ 6  com/esotericsoftware/kryonet/rmi/ObjectSpace$CachedMethod  super=java/lang/Object  [com/esotericsoftware, kryonet]
+ 6  com/esotericsoftware/kryonet/rmi/ObjectSpace$InvokeMethod  super=java/lang/Object  [com/esotericsoftware, kryonet]
+ 6  com/esotericsoftware/kryonet/rmi/ObjectSpace$InvokeMethodResult  super=java/lang/Object  [com/esotericsoftware, kryonet]
+ 6  com/esotericsoftware/kryonet/rmi/ObjectSpace$RemoteInvocationHandler  super=java/lang/Object  [com/esotericsoftware, kryonet]
+ 6  com/esotericsoftware/kryonet/rmi/ObjectSpace$RemoteInvocationHandler$1  super=com/esotericsoftware/kryonet/Listener  [com/esotericsoftware, kryonet]
+ 6  com/esotericsoftware/kryonet/rmi/ObjectSpace$RemoteObjectSerializer  super=com/esotericsoftware/kryo/Serializer  [com/esotericsoftware, kryonet]
+ 6  com/esotericsoftware/kryonet/rmi/RemoteObject  super=java/lang/Object  [com/esotericsoftware, kryonet]
+ 6  com/esotericsoftware/kryonet/rmi/TimeoutException  super=java/lang/RuntimeException  [com/esotericsoftware, kryonet]
+ 6  com/esotericsoftware/kryonet/util/InputStreamSender  super=com/esotericsoftware/kryonet/util/TcpIdleSender  [com/esotericsoftware, kryonet]
+ 6  com/esotericsoftware/kryonet/util/ObjectIntMap  super=java/lang/Object  [com/esotericsoftware, kryonet]
+ 6  com/esotericsoftware/kryonet/util/TcpIdleSender  super=com/esotericsoftware/kryonet/Listener  [com/esotericsoftware, kryonet]
+ 6  com/mysql/cj/protocol/ExportControlled  super=java/lang/Object  [java/net/URL, java/net/Socket]
+ 6  com/mysql/cj/protocol/a/NativeProtocol  super=com/mysql/cj/protocol/AbstractProtocol  [java/net/URL, java/net/Socket]
+ 6  com/neovisionaries/ws/client/WebSocketFactory  super=java/lang/Object  [java/net/URL, java/net/Socket]
+ 6  net/decimation/mod/client/events/EventHandlerClientTick$2  super=java/lang/Thread  [com/esotericsoftware, kryonet]
+ 6  net/decimation/mod/client/gui/api/GuiDropDownMenu  super=net/decimation/mod/client/gui/api/GuiCustomScreen  [GuiScreen, GuiButton, func_73866_w_, func_146284_a, func_73863_a, func_147108_a]
+ 6  net/decimation/mod/client/gui/api/GuiTextPrompt  super=net/decimation/mod/client/gui/api/GuiCustomScreen  [GuiScreen, GuiButton, func_73866_w_, func_146284_a, func_73863_a, func_147108_a]
+ 6  net/decimation/mod/client/gui/api/GuiYesNoPrompt  super=net/decimation/mod/client/gui/api/GuiCustomScreen  [GuiScreen, GuiButton, func_73866_w_, func_146284_a, func_73863_a, func_147108_a]
+ 6  net/decimation/mod/client/gui/ingame/GuiBackpackRename  super=net/minecraft/client/gui/GuiScreen  [GuiScreen, GuiButton, func_73866_w_, func_146284_a, func_73863_a, func_147108_a]
+ 6  net/decimation/mod/client/gui/ingame/GuiBountyPlace  super=net/minecraft/client/gui/GuiScreen  [GuiScreen, GuiButton, func_73866_w_, func_146284_a, func_73863_a, func_147108_a]
+ 6  net/decimation/mod/client/gui/ingame/GuiCustomInventory  super=net/minecraft/client/renderer/InventoryEffectRenderer  [GuiScreen, GuiButton, func_73866_w_, func_146284_a, func_73863_a, func_147108_a]
+ 6  net/decimation/mod/client/gui/ingame/GuiNoteEdit  super=net/minecraft/client/gui/GuiScreen  [GuiScreen, GuiButton, func_73866_w_, func_146284_a, func_73863_a, func_147108_a]
+ 6  net/decimation/mod/client/gui/ingame/GuiNoteView  super=net/minecraft/client/gui/GuiScreen  [GuiScreen, GuiButton, func_73866_w_, func_146284_a, func_73863_a, func_147108_a]
+ 6  net/decimation/mod/client/gui/ingame/GuiRoadSignEdit  super=net/minecraft/client/gui/GuiScreen  [GuiScreen, GuiButton, func_73866_w_, func_146284_a, func_73863_a, func_147108_a]
+ 6  net/decimation/mod/client/gui/menu/Gui_Menu_Options  super=net/decimation/mod/client/gui/api/GuiCustomScreen  [GuiScreen, GuiButton, func_73866_w_, func_146284_a, func_73863_a, func_147108_a]
+ 6  net/decimation/mod/client/utils/UtilClientShutdown  super=java/lang/Object  [com/esotericsoftware, kryonet]
+ 6  net/decimation/mod/server/commands/Command_DiscordAuthCode$1  super=java/lang/Thread  [com/esotericsoftware, kryonet]
+ 6  net/decimation/mod/server/commands/Command_Supporter$1  super=java/lang/Thread  [com/esotericsoftware, kryonet]
+ 6  net/decimation/mod/server/commands/Command_Supporter$2  super=java/lang/Thread  [com/esotericsoftware, kryonet]
+ 6  net/decimation/mod/server/handlers/Handler_Server_Events$1  super=java/lang/Thread  [com/esotericsoftware, kryonet]
+ 6  net/decimation/mod/server/managers/Manager_CommunityServerList$1  super=java/lang/Thread  [com/esotericsoftware, kryonet]
+ 6  net/decimation/mod/utilities/net/client_network/ClientServerListManager$1  super=java/lang/Thread  [com/esotericsoftware, kryonet]
+ 6  net/decimation/mod/utilities/net/client_network/ClientServerListManager$2  super=java/lang/Thread  [com/esotericsoftware, kryonet]
+ 6  net/decimation/mod/utilities/net/client_network/MessageListener_Server  super=com/esotericsoftware/kryonet/Listener  [com/esotericsoftware, kryonet]
+ 6  net/dv8tion/jda/core/audio/AudioConnection  super=java/lang/Object  [java/net/Socket, java/net/DatagramSocket]
+ 6  net/dv8tion/jda/core/audio/AudioConnection$PacketProvider  super=java/lang/Object  [java/net/Socket, java/net/DatagramSocket]
+ 6  net/dv8tion/jda/core/audio/AudioWebSocket  super=com/neovisionaries/ws/client/WebSocketAdapter  [java/net/Socket, java/net/DatagramSocket]
+ 6  net/dv8tion/jda/core/audio/factory/DefaultSendSystem  super=java/lang/Object  [java/net/Socket, java/net/DatagramSocket]
+ 6  okhttp3/internal/connection/RealConnection  super=okhttp3/internal/http2/Http2Connection$Listener  [java/net/Socket, java/net/HttpURLConnection]
+ 6  okhttp3/internal/http/RetryAndFollowUpInterceptor  super=java/lang/Object  [java/net/Socket, java/net/HttpURLConnection]
+ 5  net/decimation/mod/client/gui/api/GuiCustomScreen  super=net/minecraft/client/gui/GuiScreen  [GuiScreen, GuiButton, func_73866_w_, func_146284_a, func_73863_a]
+ 5  net/decimation/mod/utilities/utils/Utils_Updater$2  super=java/lang/Thread  [java/net/URL, GuiScreen, func_147108_a]
+ 5  net/decimation/mod/utilities/utils/Utils_Updater$3  super=java/lang/Thread  [java/net/URL, GuiScreen, func_147108_a]
+ 4  net/decimation/mod/client/gui/api/GuiScrollerSlotImage  super=net/decimation/mod/client/gui/api/GuiScrollerSlot  [java/net/URL, GuiButton]
+ 4  net/decimation/mod/client/gui/ingame/GuiBounty  super=net/decimation/mod/client/gui/api/GuiCustomScreen  [GuiButton, func_73866_w_, func_146284_a, func_73863_a]
+ 4  net/decimation/mod/client/gui/ingame/GuiTrade  super=net/decimation/mod/client/gui/api/GuiCustomScreen  [GuiButton, func_73866_w_, func_146284_a, func_73863_a]
+ 4  net/decimation/mod/client/gui/menu/Gui_Menu_Intro  super=net/decimation/mod/client/gui/menu/GuiCustomMainMenu  [GuiScreen, func_73866_w_, func_73863_a, func_147108_a]
+ 3  com/boehmod/lib/network/api/objects/ObjectRegistry  super=java/lang/Object  [com/esotericsoftware]
+ 3  com/esotericsoftware/jsonbeans/Json  super=java/lang/Object  [com/esotericsoftware]
+ 3  com/esotericsoftware/jsonbeans/Json$FieldMetadata  super=java/lang/Object  [com/esotericsoftware]
+ 3  com/esotericsoftware/jsonbeans/JsonException  super=java/lang/RuntimeException  [com/esotericsoftware]
+ 3  com/esotericsoftware/jsonbeans/JsonReader  super=java/lang/Object  [com/esotericsoftware]
+ 3  com/esotericsoftware/jsonbeans/JsonSerializable  super=java/lang/Object  [com/esotericsoftware]
+ 3  com/esotericsoftware/jsonbeans/JsonSerializer  super=java/lang/Object  [com/esotericsoftware]
+ 3  com/esotericsoftware/jsonbeans/JsonValue  super=java/lang/Object  [com/esotericsoftware]
+ 3  com/esotericsoftware/jsonbeans/JsonValue$1  super=java/lang/Object  [com/esotericsoftware]
+ 3  com/esotericsoftware/jsonbeans/JsonValue$JsonIterator  super=java/lang/Object  [com/esotericsoftware]
+ 3  com/esotericsoftware/jsonbeans/JsonValue$PrettyPrintSettings  super=java/lang/Object  [com/esotericsoftware]
+ 3  com/esotericsoftware/jsonbeans/JsonValue$ValueType  super=java/lang/Enum  [com/esotericsoftware]
+ 3  com/esotericsoftware/jsonbeans/JsonWriter  super=java/io/Writer  [com/esotericsoftware]
+ 3  com/esotericsoftware/jsonbeans/JsonWriter$JsonObject  super=java/lang/Object  [com/esotericsoftware]
+ 3  com/esotericsoftware/jsonbeans/ObjectMap  super=java/lang/Object  [com/esotericsoftware]
+ 3  com/esotericsoftware/jsonbeans/ObjectMap$Entries  super=com/esotericsoftware/jsonbeans/ObjectMap$MapIterator  [com/esotericsoftware]
+ 3  com/esotericsoftware/jsonbeans/ObjectMap$Entry  super=java/lang/Object  [com/esotericsoftware]
+ 3  com/esotericsoftware/jsonbeans/ObjectMap$Keys  super=com/esotericsoftware/jsonbeans/ObjectMap$MapIterator  [com/esotericsoftware]
+ 3  com/esotericsoftware/jsonbeans/ObjectMap$MapIterator  super=java/lang/Object  [com/esotericsoftware]
+ 3  com/esotericsoftware/jsonbeans/ObjectMap$Values  super=com/esotericsoftware/jsonbeans/ObjectMap$MapIterator  [com/esotericsoftware]
+ 3  com/esotericsoftware/jsonbeans/OutputType  super=java/lang/Enum  [com/esotericsoftware]
+ 3  com/esotericsoftware/jsonbeans/OutputType$1  super=java/lang/Object  [com/esotericsoftware]
+ 3  com/esotericsoftware/jsonbeans/ReadOnlySerializer  super=java/lang/Object  [com/esotericsoftware]
+ 3  com/esotericsoftware/kryo/ClassResolver  super=java/lang/Object  [com/esotericsoftware]
+ 3  com/esotericsoftware/kryo/DefaultSerializer  super=java/lang/Object  [com/esotericsoftware]
+ 3  com/esotericsoftware/kryo/Generics  super=java/lang/Object  [com/esotericsoftware]
+ 3  com/esotericsoftware/kryo/Kryo  super=java/lang/Object  [com/esotericsoftware]
+ 3  com/esotericsoftware/kryo/Kryo$DefaultInstantiatorStrategy  super=java/lang/Object  [com/esotericsoftware]
+ 3  com/esotericsoftware/kryo/Kryo$DefaultInstantiatorStrategy$1  super=java/lang/Object  [com/esotericsoftware]
+ 3  com/esotericsoftware/kryo/Kryo$DefaultInstantiatorStrategy$2  super=java/lang/Object  [com/esotericsoftware]
+ 3  com/esotericsoftware/kryo/Kryo$DefaultSerializerEntry  super=java/lang/Object  [com/esotericsoftware]
+ 3  com/esotericsoftware/kryo/KryoCopyable  super=java/lang/Object  [com/esotericsoftware]
+ 3  com/esotericsoftware/kryo/KryoException  super=java/lang/RuntimeException  [com/esotericsoftware]
+ 3  com/esotericsoftware/kryo/KryoSerializable  super=java/lang/Object  [com/esotericsoftware]
+ 3  com/esotericsoftware/kryo/NotNull  super=java/lang/Object  [com/esotericsoftware]
+ 3  com/esotericsoftware/kryo/ReferenceResolver  super=java/lang/Object  [com/esotericsoftware]
+ 3  com/esotericsoftware/kryo/Registration  super=java/lang/Object  [com/esotericsoftware]
+ 3  com/esotericsoftware/kryo/Serializer  super=java/lang/Object  [com/esotericsoftware]
+ 3  com/esotericsoftware/kryo/StreamFactory  super=java/lang/Object  [com/esotericsoftware]
+ 3  com/esotericsoftware/kryo/factories/PseudoSerializerFactory  super=java/lang/Object  [com/esotericsoftware]
+ 3  com/esotericsoftware/kryo/factories/ReflectionSerializerFactory  super=java/lang/Object  [com/esotericsoftware]
+ 3  com/esotericsoftware/kryo/factories/SerializerFactory  super=java/lang/Object  [com/esotericsoftware]
+ 3  com/esotericsoftware/kryo/io/ByteBufferInput  super=com/esotericsoftware/kryo/io/Input  [com/esotericsoftware]
+ 3  com/esotericsoftware/kryo/io/ByteBufferInputStream  super=java/io/InputStream  [com/esotericsoftware]
+ 3  com/esotericsoftware/kryo/io/ByteBufferOutput  super=com/esotericsoftware/kryo/io/Output  [com/esotericsoftware]
+ 3  com/esotericsoftware/kryo/io/ByteBufferOutputStream  super=java/io/OutputStream  [com/esotericsoftware]
+ 3  com/esotericsoftware/kryo/io/FastInput  super=com/esotericsoftware/kryo/io/Input  [com/esotericsoftware]
+ 3  com/esotericsoftware/kryo/io/FastOutput  super=com/esotericsoftware/kryo/io/Output  [com/esotericsoftware]
+ 3  com/esotericsoftware/kryo/io/Input  super=java/io/InputStream  [com/esotericsoftware]
+ 3  com/esotericsoftware/kryo/io/InputChunked  super=com/esotericsoftware/kryo/io/Input  [com/esotericsoftware]
+ 3  com/esotericsoftware/kryo/io/KryoDataInput  super=java/lang/Object  [com/esotericsoftware]
+ 3  com/esotericsoftware/kryo/io/KryoDataOutput  super=java/lang/Object  [com/esotericsoftware]
+ 3  com/esotericsoftware/kryo/io/KryoObjectInput  super=com/esotericsoftware/kryo/io/KryoDataInput  [com/esotericsoftware]
+ 3  com/esotericsoftware/kryo/io/KryoObjectOutput  super=com/esotericsoftware/kryo/io/KryoDataOutput  [com/esotericsoftware]
+ 3  com/esotericsoftware/kryo/io/Output  super=java/io/OutputStream  [com/esotericsoftware]
+ 3  com/esotericsoftware/kryo/io/OutputChunked  super=com/esotericsoftware/kryo/io/Output  [com/esotericsoftware]
+ 3  com/esotericsoftware/kryo/io/UnsafeInput  super=com/esotericsoftware/kryo/io/Input  [com/esotericsoftware]
+ 3  com/esotericsoftware/kryo/io/UnsafeMemoryInput  super=com/esotericsoftware/kryo/io/ByteBufferInput  [com/esotericsoftware]
+ 3  com/esotericsoftware/kryo/io/UnsafeMemoryOutput  super=com/esotericsoftware/kryo/io/ByteBufferOutput  [com/esotericsoftware]
+ 3  com/esotericsoftware/kryo/io/UnsafeOutput  super=com/esotericsoftware/kryo/io/Output  [com/esotericsoftware]
+ 3  com/esotericsoftware/kryo/serializers/AsmCacheFields  super=java/lang/Object  [com/esotericsoftware]
+ 3  com/esotericsoftware/kryo/serializers/AsmCacheFields$AsmBooleanField  super=com/esotericsoftware/kryo/serializers/AsmCacheFields$AsmCachedField  [com/esotericsoftware]
+ 3  com/esotericsoftware/kryo/serializers/AsmCacheFields$AsmByteField  super=com/esotericsoftware/kryo/serializers/AsmCacheFields$AsmCachedField  [com/esotericsoftware]
+ 3  com/esotericsoftware/kryo/serializers/AsmCacheFields$AsmCachedField  super=com/esotericsoftware/kryo/serializers/FieldSerializer$CachedField  [com/esotericsoftware]
+ 3  com/esotericsoftware/kryo/serializers/AsmCacheFields$AsmCharField  super=com/esotericsoftware/kryo/serializers/AsmCacheFields$AsmCachedField  [com/esotericsoftware]
+ 3  com/esotericsoftware/kryo/serializers/AsmCacheFields$AsmDoubleField  super=com/esotericsoftware/kryo/serializers/AsmCacheFields$AsmCachedField  [com/esotericsoftware]
+ 3  com/esotericsoftware/kryo/serializers/AsmCacheFields$AsmFloatField  super=com/esotericsoftware/kryo/serializers/AsmCacheFields$AsmCachedField  [com/esotericsoftware]
+ 3  com/esotericsoftware/kryo/serializers/AsmCacheFields$AsmIntField  super=com/esotericsoftware/kryo/serializers/AsmCacheFields$AsmCachedField  [com/esotericsoftware]
+ 3  com/esotericsoftware/kryo/serializers/AsmCacheFields$AsmLongField  super=com/esotericsoftware/kryo/serializers/AsmCacheFields$AsmCachedField  [com/esotericsoftware]
+ 3  com/esotericsoftware/kryo/serializers/AsmCacheFields$AsmObjectField  super=com/esotericsoftware/kryo/serializers/ObjectField  [com/esotericsoftware]
+ 3  com/esotericsoftware/kryo/serializers/AsmCacheFields$AsmShortField  super=com/esotericsoftware/kryo/serializers/AsmCacheFields$AsmCachedField  [com/esotericsoftware]
+ 3  com/esotericsoftware/kryo/serializers/AsmCacheFields$AsmStringField  super=com/esotericsoftware/kryo/serializers/AsmCacheFields$AsmCachedField  [com/esotericsoftware]
+ 3  com/esotericsoftware/kryo/serializers/AsmCachedFieldFactory  super=java/lang/Object  [com/esotericsoftware]
+ 3  com/esotericsoftware/kryo/serializers/BeanSerializer  super=com/esotericsoftware/kryo/Serializer  [com/esotericsoftware]
+ 3  com/esotericsoftware/kryo/serializers/BeanSerializer$1  super=java/lang/Object  [com/esotericsoftware]
+ 3  com/esotericsoftware/kryo/serializers/BeanSerializer$CachedProperty  super=java/lang/Object  [com/esotericsoftware]
+ 3  com/esotericsoftware/kryo/serializers/BlowfishSerializer  super=com/esotericsoftware/kryo/Serializer  [com/esotericsoftware]
+ 3  com/esotericsoftware/kryo/serializers/BlowfishSerializer$1  super=com/esotericsoftware/kryo/io/Output  [com/esotericsoftware]
+ 3  com/esotericsoftware/kryo/serializers/CollectionSerializer  super=com/esotericsoftware/kryo/Serializer  [com/esotericsoftware]
+ 3  com/esotericsoftware/kryo/serializers/CollectionSerializer$BindCollection  super=java/lang/Object  [com/esotericsoftware]
+ 3  com/esotericsoftware/kryo/serializers/CompatibleFieldSerializer  super=com/esotericsoftware/kryo/serializers/FieldSerializer  [com/esotericsoftware]
+ 3  com/esotericsoftware/kryo/serializers/DefaultArraySerializers  super=java/lang/Object  [com/esotericsoftware]
+ 3  com/esotericsoftware/kryo/serializers/DefaultArraySerializers$BooleanArraySerializer  super=com/esotericsoftware/kryo/Serializer  [com/esotericsoftware]
+ 3  com/esotericsoftware/kryo/serializers/DefaultArraySerializers$ByteArraySerializer  super=com/esotericsoftware/kryo/Serializer  [com/esotericsoftware]
+ 3  com/esotericsoftware/kryo/serializers/DefaultArraySerializers$CharArraySerializer  super=com/esotericsoftware/kryo/Serializer  [com/esotericsoftware]
+ 3  com/esotericsoftware/kryo/serializers/DefaultArraySerializers$DoubleArraySerializer  super=com/esotericsoftware/kryo/Serializer  [com/esotericsoftware]
+ 3  com/esotericsoftware/kryo/serializers/DefaultArraySerializers$FloatArraySerializer  super=com/esotericsoftware/kryo/Serializer  [com/esotericsoftware]
+ 3  com/esotericsoftware/kryo/serializers/DefaultArraySerializers$IntArraySerializer  super=com/esotericsoftware/kryo/Serializer  [com/esotericsoftware]
+ 3  com/esotericsoftware/kryo/serializers/DefaultArraySerializers$LongArraySerializer  super=com/esotericsoftware/kryo/Serializer  [com/esotericsoftware]
+ 3  com/esotericsoftware/kryo/serializers/DefaultArraySerializers$ObjectArraySerializer  super=com/esotericsoftware/kryo/Serializer  [com/esotericsoftware]
+ 3  com/esotericsoftware/kryo/serializers/DefaultArraySerializers$ShortArraySerializer  super=com/esotericsoftware/kryo/Serializer  [com/esotericsoftware]
+ 3  com/esotericsoftware/kryo/serializers/DefaultArraySerializers$StringArraySerializer  super=com/esotericsoftware/kryo/Serializer  [com/esotericsoftware]
+ 3  com/esotericsoftware/kryo/serializers/DefaultSerializers  super=java/lang/Object  [com/esotericsoftware]
+ 3  com/esotericsoftware/kryo/serializers/DefaultSerializers$BigDecimalSerializer  super=com/esotericsoftware/kryo/Serializer  [com/esotericsoftware]
+ 3  com/esotericsoftware/kryo/serializers/DefaultSerializers$BigIntegerSerializer  super=com/esotericsoftware/kryo/Serializer  [com/esotericsoftware]
+ 3  com/esotericsoftware/kryo/serializers/DefaultSerializers$BooleanSerializer  super=com/esotericsoftware/kryo/Serializer  [com/esotericsoftware]
+ 3  com/esotericsoftware/kryo/serializers/DefaultSerializers$ByteSerializer  super=com/esotericsoftware/kryo/Serializer  [com/esotericsoftware]
+ 3  com/esotericsoftware/kryo/serializers/DefaultSerializers$CalendarSerializer  super=com/esotericsoftware/kryo/Serializer  [com/esotericsoftware]
+ 3  com/esotericsoftware/kryo/serializers/DefaultSerializers$CharSerializer  super=com/esotericsoftware/kryo/Serializer  [com/esotericsoftware]
+ 3  com/esotericsoftware/kryo/serializers/DefaultSerializers$ClassSerializer  super=com/esotericsoftware/kryo/Serializer  [com/esotericsoftware]
+ 3  com/esotericsoftware/kryo/serializers/DefaultSerializers$CollectionsEmptyListSerializer  super=com/esotericsoftware/kryo/Serializer  [com/esotericsoftware]
+ 3  com/esotericsoftware/kryo/serializers/DefaultSerializers$CollectionsEmptyMapSerializer  super=com/esotericsoftware/kryo/Serializer  [com/esotericsoftware]
+ 3  com/esotericsoftware/kryo/serializers/DefaultSerializers$CollectionsEmptySetSerializer  super=com/esotericsoftware/kryo/Serializer  [com/esotericsoftware]
+ 3  com/esotericsoftware/kryo/serializers/DefaultSerializers$CollectionsSingletonListSerializer  super=com/esotericsoftware/kryo/Serializer  [com/esotericsoftware]
+ 3  com/esotericsoftware/kryo/serializers/DefaultSerializers$CollectionsSingletonMapSerializer  super=com/esotericsoftware/kryo/Serializer  [com/esotericsoftware]
+ 3  com/esotericsoftware/kryo/serializers/DefaultSerializers$CollectionsSingletonSetSerializer  super=com/esotericsoftware/kryo/Serializer  [com/esotericsoftware]
+ 3  com/esotericsoftware/kryo/serializers/DefaultSerializers$CurrencySerializer  super=com/esotericsoftware/kryo/Serializer  [com/esotericsoftware]
+ 3  com/esotericsoftware/kryo/serializers/DefaultSerializers$DateSerializer  super=com/esotericsoftware/kryo/Serializer  [com/esotericsoftware]
+ 3  com/esotericsoftware/kryo/serializers/DefaultSerializers$DoubleSerializer  super=com/esotericsoftware/kryo/Serializer  [com/esotericsoftware]
+ 3  com/esotericsoftware/kryo/serializers/DefaultSerializers$EnumSerializer  super=com/esotericsoftware/kryo/Serializer  [com/esotericsoftware]
+ 3  com/esotericsoftware/kryo/serializers/DefaultSerializers$EnumSetSerializer  super=com/esotericsoftware/kryo/Serializer  [com/esotericsoftware]
+ 3  com/esotericsoftware/kryo/serializers/DefaultSerializers$FloatSerializer  super=com/esotericsoftware/kryo/Serializer  [com/esotericsoftware]
+ 3  com/esotericsoftware/kryo/serializers/DefaultSerializers$IntSerializer  super=com/esotericsoftware/kryo/Serializer  [com/esotericsoftware]
+ 3  com/esotericsoftware/kryo/serializers/DefaultSerializers$KryoSerializableSerializer  super=com/esotericsoftware/kryo/Serializer  [com/esotericsoftware]
+ 3  com/esotericsoftware/kryo/serializers/DefaultSerializers$LocaleSerializer  super=com/esotericsoftware/kryo/Serializer  [com/esotericsoftware]
+ 3  com/esotericsoftware/kryo/serializers/DefaultSerializers$LongSerializer  super=com/esotericsoftware/kryo/Serializer  [com/esotericsoftware]
+ 3  com/esotericsoftware/kryo/serializers/DefaultSerializers$ShortSerializer  super=com/esotericsoftware/kryo/Serializer  [com/esotericsoftware]
+ 3  com/esotericsoftware/kryo/serializers/DefaultSerializers$StringBufferSerializer  super=com/esotericsoftware/kryo/Serializer  [com/esotericsoftware]
+ 3  com/esotericsoftware/kryo/serializers/DefaultSerializers$StringBuilderSerializer  super=com/esotericsoftware/kryo/Serializer  [com/esotericsoftware]
+ 3  com/esotericsoftware/kryo/serializers/DefaultSerializers$StringSerializer  super=com/esotericsoftware/kryo/Serializer  [com/esotericsoftware]
+ 3  com/esotericsoftware/kryo/serializers/DefaultSerializers$TimeZoneSerializer  super=com/esotericsoftware/kryo/Serializer  [com/esotericsoftware]
+ 3  com/esotericsoftware/kryo/serializers/DefaultSerializers$TreeMapSerializer  super=com/esotericsoftware/kryo/serializers/MapSerializer  [com/esotericsoftware]
+ 3  com/esotericsoftware/kryo/serializers/DefaultSerializers$TreeSetSerializer  super=com/esotericsoftware/kryo/serializers/CollectionSerializer  [com/esotericsoftware]
+ 3  com/esotericsoftware/kryo/serializers/DefaultSerializers$VoidSerializer  super=com/esotericsoftware/kryo/Serializer  [com/esotericsoftware]
+ 3  com/esotericsoftware/kryo/serializers/DeflateSerializer  super=com/esotericsoftware/kryo/Serializer  [com/esotericsoftware]
+ 3  com/esotericsoftware/kryo/serializers/ExternalizableSerializer  super=com/esotericsoftware/kryo/Serializer  [com/esotericsoftware]
+ 3  com/esotericsoftware/kryo/serializers/FieldSerializer  super=com/esotericsoftware/kryo/Serializer  [com/esotericsoftware]
+ 3  com/esotericsoftware/kryo/serializers/FieldSerializer$Bind  super=java/lang/Object  [com/esotericsoftware]
+ 3  com/esotericsoftware/kryo/serializers/FieldSerializer$CachedField  super=java/lang/Object  [com/esotericsoftware]
+ 3  com/esotericsoftware/kryo/serializers/FieldSerializer$CachedFieldFactory  super=java/lang/Object  [com/esotericsoftware]
+ 3  com/esotericsoftware/kryo/serializers/FieldSerializer$Optional  super=java/lang/Object  [com/esotericsoftware]
+ 3  com/esotericsoftware/kryo/serializers/FieldSerializerAnnotationsUtil  super=java/lang/Object  [com/esotericsoftware]
+ 3  com/esotericsoftware/kryo/serializers/FieldSerializerGenericsUtil  super=java/lang/Object  [com/esotericsoftware]
+ 3  com/esotericsoftware/kryo/serializers/FieldSerializerUnsafeUtil  super=java/lang/Object  [com/esotericsoftware]
+ 3  com/esotericsoftware/kryo/serializers/FieldSerializerUnsafeUtil$Factory  super=java/lang/Object  [com/esotericsoftware]
+ 3  com/esotericsoftware/kryo/serializers/FieldSerializerUnsafeUtilImpl  super=java/lang/Object  [com/esotericsoftware]
+ 3  com/esotericsoftware/kryo/serializers/JavaSerializer  super=com/esotericsoftware/kryo/Serializer  [com/esotericsoftware]
+ 3  com/esotericsoftware/kryo/serializers/MapSerializer  super=com/esotericsoftware/kryo/Serializer  [com/esotericsoftware]
+ 3  com/esotericsoftware/kryo/serializers/MapSerializer$BindMap  super=java/lang/Object  [com/esotericsoftware]
+ 3  com/esotericsoftware/kryo/serializers/ObjectCachedFieldFactory  super=java/lang/Object  [com/esotericsoftware]
+ 3  com/esotericsoftware/kryo/serializers/ObjectField  super=com/esotericsoftware/kryo/serializers/FieldSerializer$CachedField  [com/esotericsoftware]
+ 3  com/esotericsoftware/kryo/serializers/ObjectField$ObjectBooleanField  super=com/esotericsoftware/kryo/serializers/ObjectField  [com/esotericsoftware]
+ 3  com/esotericsoftware/kryo/serializers/ObjectField$ObjectByteField  super=com/esotericsoftware/kryo/serializers/ObjectField  [com/esotericsoftware]
+ 3  com/esotericsoftware/kryo/serializers/ObjectField$ObjectCharField  super=com/esotericsoftware/kryo/serializers/ObjectField  [com/esotericsoftware]
+ 3  com/esotericsoftware/kryo/serializers/ObjectField$ObjectDoubleField  super=com/esotericsoftware/kryo/serializers/ObjectField  [com/esotericsoftware]
+ 3  com/esotericsoftware/kryo/serializers/ObjectField$ObjectFloatField  super=com/esotericsoftware/kryo/serializers/ObjectField  [com/esotericsoftware]
+ 3  com/esotericsoftware/kryo/serializers/ObjectField$ObjectIntField  super=com/esotericsoftware/kryo/serializers/ObjectField  [com/esotericsoftware]
+ 3  com/esotericsoftware/kryo/serializers/ObjectField$ObjectLongField  super=com/esotericsoftware/kryo/serializers/ObjectField  [com/esotericsoftware]
+ 3  com/esotericsoftware/kryo/serializers/ObjectField$ObjectShortField  super=com/esotericsoftware/kryo/serializers/ObjectField  [com/esotericsoftware]
+ 3  com/esotericsoftware/kryo/serializers/TaggedFieldSerializer  super=com/esotericsoftware/kryo/serializers/FieldSerializer  [com/esotericsoftware]
+ 3  com/esotericsoftware/kryo/serializers/TaggedFieldSerializer$Tag  super=java/lang/Object  [com/esotericsoftware]
+ 3  com/esotericsoftware/kryo/serializers/UnsafeCacheFields  super=java/lang/Object  [com/esotericsoftware]
+ 3  com/esotericsoftware/kryo/serializers/UnsafeCacheFields$UnsafeBooleanField  super=com/esotericsoftware/kryo/serializers/UnsafeCacheFields$UnsafeCachedField  [com/esotericsoftware]
+ 3  com/esotericsoftware/kryo/serializers/UnsafeCacheFields$UnsafeByteField  super=com/esotericsoftware/kryo/serializers/UnsafeCacheFields$UnsafeCachedField  [com/esotericsoftware]
+ 3  com/esotericsoftware/kryo/serializers/UnsafeCacheFields$UnsafeCachedField  super=com/esotericsoftware/kryo/serializers/FieldSerializer$CachedField  [com/esotericsoftware]
+ 3  com/esotericsoftware/kryo/serializers/UnsafeCacheFields$UnsafeCharField  super=com/esotericsoftware/kryo/serializers/UnsafeCacheFields$UnsafeCachedField  [com/esotericsoftware]
+ 3  com/esotericsoftware/kryo/serializers/UnsafeCacheFields$UnsafeDoubleField  super=com/esotericsoftware/kryo/serializers/UnsafeCacheFields$UnsafeCachedField  [com/esotericsoftware]
+ 3  com/esotericsoftware/kryo/serializers/UnsafeCacheFields$UnsafeFloatField  super=com/esotericsoftware/kryo/serializers/UnsafeCacheFields$UnsafeCachedField  [com/esotericsoftware]
+ 3  com/esotericsoftware/kryo/serializers/UnsafeCacheFields$UnsafeIntField  super=com/esotericsoftware/kryo/serializers/UnsafeCacheFields$UnsafeCachedField  [com/esotericsoftware]
+ 3  com/esotericsoftware/kryo/serializers/UnsafeCacheFields$UnsafeLongField  super=com/esotericsoftware/kryo/serializers/UnsafeCacheFields$UnsafeCachedField  [com/esotericsoftware]
+ 3  com/esotericsoftware/kryo/serializers/UnsafeCacheFields$UnsafeObjectField  super=com/esotericsoftware/kryo/serializers/ObjectField  [com/esotericsoftware]
+ 3  com/esotericsoftware/kryo/serializers/UnsafeCacheFields$UnsafeRegionField  super=com/esotericsoftware/kryo/serializers/UnsafeCacheFields$UnsafeCachedField  [com/esotericsoftware]
+ 3  com/esotericsoftware/kryo/serializers/UnsafeCacheFields$UnsafeShortField  super=com/esotericsoftware/kryo/serializers/UnsafeCacheFields$UnsafeCachedField  [com/esotericsoftware]
+ 3  com/esotericsoftware/kryo/serializers/UnsafeCacheFields$UnsafeStringField  super=com/esotericsoftware/kryo/serializers/UnsafeCacheFields$UnsafeCachedField  [com/esotericsoftware]
+ 3  com/esotericsoftware/kryo/serializers/UnsafeCachedFieldFactory  super=java/lang/Object  [com/esotericsoftware]
+ 3  com/esotericsoftware/kryo/util/DefaultClassResolver  super=java/lang/Object  [com/esotericsoftware]
+ 3  com/esotericsoftware/kryo/util/DefaultStreamFactory  super=java/lang/Object  [com/esotericsoftware]
+ 3  com/esotericsoftware/kryo/util/FastestStreamFactory  super=java/lang/Object  [com/esotericsoftware]
+ 3  com/esotericsoftware/kryo/util/IdentityMap  super=java/lang/Object  [com/esotericsoftware]
+ 3  com/esotericsoftware/kryo/util/IdentityMap$Entries  super=com/esotericsoftware/kryo/util/IdentityMap$MapIterator  [com/esotericsoftware]
+ 3  com/esotericsoftware/kryo/util/IdentityMap$Entry  super=java/lang/Object  [com/esotericsoftware]
+ 3  com/esotericsoftware/kryo/util/IdentityMap$Keys  super=com/esotericsoftware/kryo/util/IdentityMap$MapIterator  [com/esotericsoftware]
+ 3  com/esotericsoftware/kryo/util/IdentityMap$MapIterator  super=java/lang/Object  [com/esotericsoftware]
+ 3  com/esotericsoftware/kryo/util/IdentityMap$Values  super=com/esotericsoftware/kryo/util/IdentityMap$MapIterator  [com/esotericsoftware]
+ 3  com/esotericsoftware/kryo/util/IdentityObjectIntMap  super=java/lang/Object  [com/esotericsoftware]
+ 3  com/esotericsoftware/kryo/util/IntArray  super=java/lang/Object  [com/esotericsoftware]
+ 3  com/esotericsoftware/kryo/util/IntMap  super=java/lang/Object  [com/esotericsoftware]
+ 3  com/esotericsoftware/kryo/util/IntMap$Entries  super=com/esotericsoftware/kryo/util/IntMap$MapIterator  [com/esotericsoftware]
+ 3  com/esotericsoftware/kryo/util/IntMap$Entry  super=java/lang/Object  [com/esotericsoftware]
+ 3  com/esotericsoftware/kryo/util/IntMap$Keys  super=com/esotericsoftware/kryo/util/IntMap$MapIterator  [com/esotericsoftware]
+ 3  com/esotericsoftware/kryo/util/IntMap$MapIterator  super=java/lang/Object  [com/esotericsoftware]
+ 3  com/esotericsoftware/kryo/util/IntMap$Values  super=com/esotericsoftware/kryo/util/IntMap$MapIterator  [com/esotericsoftware]
+ 3  com/esotericsoftware/kryo/util/ListReferenceResolver  super=java/lang/Object  [com/esotericsoftware]
+ 3  com/esotericsoftware/kryo/util/MapReferenceResolver  super=java/lang/Object  [com/esotericsoftware]
+ 3  com/esotericsoftware/kryo/util/ObjectMap  super=java/lang/Object  [com/esotericsoftware]
+ 3  com/esotericsoftware/kryo/util/ObjectMap$Entries  super=com/esotericsoftware/kryo/util/ObjectMap$MapIterator  [com/esotericsoftware]
+ 3  com/esotericsoftware/kryo/util/ObjectMap$Entry  super=java/lang/Object  [com/esotericsoftware]
+ 3  com/esotericsoftware/kryo/util/ObjectMap$Keys  super=com/esotericsoftware/kryo/util/ObjectMap$MapIterator  [com/esotericsoftware]
+ 3  com/esotericsoftware/kryo/util/ObjectMap$MapIterator  super=java/lang/Object  [com/esotericsoftware]
+ 3  com/esotericsoftware/kryo/util/ObjectMap$Values  super=com/esotericsoftware/kryo/util/ObjectMap$MapIterator  [com/esotericsoftware]
+ 3  com/esotericsoftware/kryo/util/UnsafeUtil  super=java/lang/Object  [com/esotericsoftware]
+ 3  com/esotericsoftware/kryo/util/UnsafeUtil$1  super=java/lang/Object  [com/esotericsoftware]
+ 3  com/esotericsoftware/kryo/util/Util  super=java/lang/Object  [com/esotericsoftware]
+ 3  com/esotericsoftware/minlog/Log  super=java/lang/Object  [com/esotericsoftware]
+ 3  com/esotericsoftware/minlog/Log$Logger  super=java/lang/Object  [com/esotericsoftware]
+ 3  com/esotericsoftware/reflectasm/AccessClassLoader  super=java/lang/ClassLoader  [com/esotericsoftware]
+ 3  com/esotericsoftware/reflectasm/ConstructorAccess  super=java/lang/Object  [com/esotericsoftware]
+ 3  com/esotericsoftware/reflectasm/FieldAccess  super=java/lang/Object  [com/esotericsoftware]
+ 3  com/esotericsoftware/reflectasm/MethodAccess  super=java/lang/Object  [com/esotericsoftware]
+ 3  com/esotericsoftware/reflectasm/shaded/org/objectweb/asm/AnnotationVisitor  super=java/lang/Object  [com/esotericsoftware]
+ 3  com/esotericsoftware/reflectasm/shaded/org/objectweb/asm/AnnotationWriter  super=com/esotericsoftware/reflectasm/shaded/org/objectweb/asm/AnnotationVisitor  [com/esotericsoftware]
+ 3  com/esotericsoftware/reflectasm/shaded/org/objectweb/asm/Attribute  super=java/lang/Object  [com/esotericsoftware]
+ 3  com/esotericsoftware/reflectasm/shaded/org/objectweb/asm/ByteVector  super=java/lang/Object  [com/esotericsoftware]
+
+== CLASSI CON NOME SIGNIFICATIVO (menu/server/rete/update...) ==
+club/minnced/discord/rpc/DiscordEventHandlers$OnGameUpdate
+com/boehmod/lib/network/api/ClientNetworkConnection
+com/boehmod/lib/network/api/ServerNetworkConnection
+com/boehmod/lib/network/api/enums/EnumCapeDesign
+com/boehmod/lib/network/api/enums/EnumDiscordRank
+com/boehmod/lib/network/api/enums/EnumEmblemDesign
+com/boehmod/lib/network/api/enums/EnumNotificationType
+com/boehmod/lib/network/api/messages/Request_FromClient_AddDeath
+com/boehmod/lib/network/api/messages/Request_FromClient_AddKill
+com/boehmod/lib/network/api/messages/Request_FromClient_AddServer
+com/boehmod/lib/network/api/messages/Request_FromClient_AddZombieKill
+com/boehmod/lib/network/api/messages/Request_FromClient_Articles
+com/boehmod/lib/network/api/messages/Request_FromClient_CrashReport
+com/boehmod/lib/network/api/messages/Request_FromClient_DiscordAuthCode
+com/boehmod/lib/network/api/messages/Request_FromClient_DownloadLink
+com/boehmod/lib/network/api/messages/Request_FromClient_LatestVersion
+com/boehmod/lib/network/api/messages/Request_FromClient_PlayerCount
+com/boehmod/lib/network/api/messages/Request_FromClient_PlayerProfile
+com/boehmod/lib/network/api/messages/Request_FromClient_ServerList
+com/boehmod/lib/network/api/messages/Request_FromClient_Supporter_Add
+com/boehmod/lib/network/api/messages/Request_FromClient_Supporter_Check
+com/boehmod/lib/network/api/messages/Request_FromClient_Supporter_Remove
+com/boehmod/lib/network/api/messages/Request_FromClient_ViewProfile
+com/boehmod/lib/network/api/messages/Response_FromServer_Articles
+com/boehmod/lib/network/api/messages/Response_FromServer_DiscordAuthCode
+com/boehmod/lib/network/api/messages/Response_FromServer_DownloadLink
+com/boehmod/lib/network/api/messages/Response_FromServer_GlobalStats
+com/boehmod/lib/network/api/messages/Response_FromServer_LatestVersion
+com/boehmod/lib/network/api/messages/Response_FromServer_Notification
+com/boehmod/lib/network/api/messages/Response_FromServer_PlayerCount
+com/boehmod/lib/network/api/messages/Response_FromServer_PlayerProfile
+com/boehmod/lib/network/api/messages/Response_FromServer_ServerList
+com/boehmod/lib/network/api/messages/Response_FromServer_Supporter_ReturnCheck
+com/boehmod/lib/network/api/messages/Response_FromServer_ViewProfile
+com/boehmod/lib/network/api/objects/ObjectDiscordProfile
+com/boehmod/lib/network/api/objects/ObjectGlobalStats
+com/boehmod/lib/network/api/objects/ObjectPlayerProfile
+com/boehmod/lib/network/api/objects/ObjectRegistry
+com/boehmod/lib/network/api/objects/ObjectServer
+com/esotericsoftware/kryo/ClassResolver
+com/esotericsoftware/kryo/DefaultSerializer
+com/esotericsoftware/kryo/Generics
+com/esotericsoftware/kryo/Kryo
+com/esotericsoftware/kryo/Kryo$DefaultInstantiatorStrategy
+com/esotericsoftware/kryo/Kryo$DefaultInstantiatorStrategy$1
+com/esotericsoftware/kryo/Kryo$DefaultInstantiatorStrategy$2
+com/esotericsoftware/kryo/Kryo$DefaultSerializerEntry
+com/esotericsoftware/kryo/KryoCopyable
+com/esotericsoftware/kryo/KryoException
+com/esotericsoftware/kryo/KryoSerializable
+com/esotericsoftware/kryo/NotNull
+com/esotericsoftware/kryo/ReferenceResolver
+com/esotericsoftware/kryo/Registration
+com/esotericsoftware/kryo/Serializer
+com/esotericsoftware/kryo/StreamFactory
+com/esotericsoftware/kryo/factories/PseudoSerializerFactory
+com/esotericsoftware/kryo/factories/ReflectionSerializerFactory
+com/esotericsoftware/kryo/factories/SerializerFactory
+com/esotericsoftware/kryo/io/ByteBufferInput
+com/esotericsoftware/kryo/io/ByteBufferInputStream
+com/esotericsoftware/kryo/io/ByteBufferOutput
+com/esotericsoftware/kryo/io/ByteBufferOutputStream
+com/esotericsoftware/kryo/io/FastInput
+com/esotericsoftware/kryo/io/FastOutput
+com/esotericsoftware/kryo/io/Input
+com/esotericsoftware/kryo/io/InputChunked
+com/esotericsoftware/kryo/io/KryoDataInput
+com/esotericsoftware/kryo/io/KryoDataOutput
+com/esotericsoftware/kryo/io/KryoObjectInput
+com/esotericsoftware/kryo/io/KryoObjectOutput
+com/esotericsoftware/kryo/io/Output
+com/esotericsoftware/kryo/io/OutputChunked
+com/esotericsoftware/kryo/io/UnsafeInput
+com/esotericsoftware/kryo/io/UnsafeMemoryInput
+com/esotericsoftware/kryo/io/UnsafeMemoryOutput
+com/esotericsoftware/kryo/io/UnsafeOutput
+com/esotericsoftware/kryo/serializers/AsmCacheFields
+com/esotericsoftware/kryo/serializers/AsmCacheFields$AsmBooleanField
+com/esotericsoftware/kryo/serializers/AsmCacheFields$AsmByteField
+com/esotericsoftware/kryo/serializers/AsmCacheFields$AsmCachedField
+com/esotericsoftware/kryo/serializers/AsmCacheFields$AsmCharField
+com/esotericsoftware/kryo/serializers/AsmCacheFields$AsmDoubleField
+com/esotericsoftware/kryo/serializers/AsmCacheFields$AsmFloatField
+com/esotericsoftware/kryo/serializers/AsmCacheFields$AsmIntField
+com/esotericsoftware/kryo/serializers/AsmCacheFields$AsmLongField
+com/esotericsoftware/kryo/serializers/AsmCacheFields$AsmObjectField
+com/esotericsoftware/kryo/serializers/AsmCacheFields$AsmShortField
+com/esotericsoftware/kryo/serializers/AsmCacheFields$AsmStringField
+com/esotericsoftware/kryo/serializers/AsmCachedFieldFactory
+com/esotericsoftware/kryo/serializers/BeanSerializer
+com/esotericsoftware/kryo/serializers/BeanSerializer$1
+com/esotericsoftware/kryo/serializers/BeanSerializer$CachedProperty
+com/esotericsoftware/kryo/serializers/BlowfishSerializer
+com/esotericsoftware/kryo/serializers/BlowfishSerializer$1
+com/esotericsoftware/kryo/serializers/CollectionSerializer
+com/esotericsoftware/kryo/serializers/CollectionSerializer$BindCollection
+com/esotericsoftware/kryo/serializers/CompatibleFieldSerializer
+com/esotericsoftware/kryo/serializers/DefaultArraySerializers
+com/esotericsoftware/kryo/serializers/DefaultArraySerializers$BooleanArraySerializer
+com/esotericsoftware/kryo/serializers/DefaultArraySerializers$ByteArraySerializer
+com/esotericsoftware/kryo/serializers/DefaultArraySerializers$CharArraySerializer
+com/esotericsoftware/kryo/serializers/DefaultArraySerializers$DoubleArraySerializer
+com/esotericsoftware/kryo/serializers/DefaultArraySerializers$FloatArraySerializer
+com/esotericsoftware/kryo/serializers/DefaultArraySerializers$IntArraySerializer
+com/esotericsoftware/kryo/serializers/DefaultArraySerializers$LongArraySerializer
+com/esotericsoftware/kryo/serializers/DefaultArraySerializers$ObjectArraySerializer
+com/esotericsoftware/kryo/serializers/DefaultArraySerializers$ShortArraySerializer
+com/esotericsoftware/kryo/serializers/DefaultArraySerializers$StringArraySerializer
+com/esotericsoftware/kryo/serializers/DefaultSerializers
+com/esotericsoftware/kryo/serializers/DefaultSerializers$BigDecimalSerializer
+com/esotericsoftware/kryo/serializers/DefaultSerializers$BigIntegerSerializer
+com/esotericsoftware/kryo/serializers/DefaultSerializers$BooleanSerializer
+com/esotericsoftware/kryo/serializers/DefaultSerializers$ByteSerializer
+com/esotericsoftware/kryo/serializers/DefaultSerializers$CalendarSerializer
+com/esotericsoftware/kryo/serializers/DefaultSerializers$CharSerializer
+com/esotericsoftware/kryo/serializers/DefaultSerializers$ClassSerializer
+com/esotericsoftware/kryo/serializers/DefaultSerializers$CollectionsEmptyListSerializer
+com/esotericsoftware/kryo/serializers/DefaultSerializers$CollectionsEmptyMapSerializer
+com/esotericsoftware/kryo/serializers/DefaultSerializers$CollectionsEmptySetSerializer
+com/esotericsoftware/kryo/serializers/DefaultSerializers$CollectionsSingletonListSerializer
+com/esotericsoftware/kryo/serializers/DefaultSerializers$CollectionsSingletonMapSerializer
+com/esotericsoftware/kryo/serializers/DefaultSerializers$CollectionsSingletonSetSerializer
+com/esotericsoftware/kryo/serializers/DefaultSerializers$CurrencySerializer
+com/esotericsoftware/kryo/serializers/DefaultSerializers$DateSerializer
+com/esotericsoftware/kryo/serializers/DefaultSerializers$DoubleSerializer
+com/esotericsoftware/kryo/serializers/DefaultSerializers$EnumSerializer
+com/esotericsoftware/kryo/serializers/DefaultSerializers$EnumSetSerializer
+com/esotericsoftware/kryo/serializers/DefaultSerializers$FloatSerializer
+com/esotericsoftware/kryo/serializers/DefaultSerializers$IntSerializer
+com/esotericsoftware/kryo/serializers/DefaultSerializers$KryoSerializableSerializer
+com/esotericsoftware/kryo/serializers/DefaultSerializers$LocaleSerializer
+com/esotericsoftware/kryo/serializers/DefaultSerializers$LongSerializer
+com/esotericsoftware/kryo/serializers/DefaultSerializers$ShortSerializer
+com/esotericsoftware/kryo/serializers/DefaultSerializers$StringBufferSerializer
+com/esotericsoftware/kryo/serializers/DefaultSerializers$StringBuilderSerializer
+com/esotericsoftware/kryo/serializers/DefaultSerializers$StringSerializer
+com/esotericsoftware/kryo/serializers/DefaultSerializers$TimeZoneSerializer
+com/esotericsoftware/kryo/serializers/DefaultSerializers$TreeMapSerializer
+com/esotericsoftware/kryo/serializers/DefaultSerializers$TreeSetSerializer
+com/esotericsoftware/kryo/serializers/DefaultSerializers$VoidSerializer
+com/esotericsoftware/kryo/serializers/DeflateSerializer
+com/esotericsoftware/kryo/serializers/ExternalizableSerializer
+com/esotericsoftware/kryo/serializers/FieldSerializer
+com/esotericsoftware/kryo/serializers/FieldSerializer$Bind
+com/esotericsoftware/kryo/serializers/FieldSerializer$CachedField
+com/esotericsoftware/kryo/serializers/FieldSerializer$CachedFieldFactory
+com/esotericsoftware/kryo/serializers/FieldSerializer$Optional
+com/esotericsoftware/kryo/serializers/FieldSerializerAnnotationsUtil
+com/esotericsoftware/kryo/serializers/FieldSerializerGenericsUtil
+com/esotericsoftware/kryo/serializers/FieldSerializerUnsafeUtil
+com/esotericsoftware/kryo/serializers/FieldSerializerUnsafeUtil$Factory
+com/esotericsoftware/kryo/serializers/FieldSerializerUnsafeUtilImpl
+com/esotericsoftware/kryo/serializers/JavaSerializer
+com/esotericsoftware/kryo/serializers/MapSerializer
+com/esotericsoftware/kryo/serializers/MapSerializer$BindMap
+com/esotericsoftware/kryo/serializers/ObjectCachedFieldFactory
+com/esotericsoftware/kryo/serializers/ObjectField
+com/esotericsoftware/kryo/serializers/ObjectField$ObjectBooleanField
+com/esotericsoftware/kryo/serializers/ObjectField$ObjectByteField
+com/esotericsoftware/kryo/serializers/ObjectField$ObjectCharField
+com/esotericsoftware/kryo/serializers/ObjectField$ObjectDoubleField
+com/esotericsoftware/kryo/serializers/ObjectField$ObjectFloatField
+com/esotericsoftware/kryo/serializers/ObjectField$ObjectIntField
+com/esotericsoftware/kryo/serializers/ObjectField$ObjectLongField
+com/esotericsoftware/kryo/serializers/ObjectField$ObjectShortField
+com/esotericsoftware/kryo/serializers/TaggedFieldSerializer
+com/esotericsoftware/kryo/serializers/TaggedFieldSerializer$Tag
+com/esotericsoftware/kryo/serializers/UnsafeCacheFields
+com/esotericsoftware/kryo/serializers/UnsafeCacheFields$UnsafeBooleanField
+com/esotericsoftware/kryo/serializers/UnsafeCacheFields$UnsafeByteField
+com/esotericsoftware/kryo/serializers/UnsafeCacheFields$UnsafeCachedField
+com/esotericsoftware/kryo/serializers/UnsafeCacheFields$UnsafeCharField
+com/esotericsoftware/kryo/serializers/UnsafeCacheFields$UnsafeDoubleField
+com/esotericsoftware/kryo/serializers/UnsafeCacheFields$UnsafeFloatField
+com/esotericsoftware/kryo/serializers/UnsafeCacheFields$UnsafeIntField
+com/esotericsoftware/kryo/serializers/UnsafeCacheFields$UnsafeLongField
+com/esotericsoftware/kryo/serializers/UnsafeCacheFields$UnsafeObjectField
+com/esotericsoftware/kryo/serializers/UnsafeCacheFields$UnsafeRegionField
+com/esotericsoftware/kryo/serializers/UnsafeCacheFields$UnsafeShortField
+com/esotericsoftware/kryo/serializers/UnsafeCacheFields$UnsafeStringField
+com/esotericsoftware/kryo/serializers/UnsafeCachedFieldFactory
+com/esotericsoftware/kryo/util/DefaultClassResolver
+com/esotericsoftware/kryo/util/DefaultStreamFactory
+com/esotericsoftware/kryo/util/FastestStreamFactory
+com/esotericsoftware/kryo/util/IdentityMap
+com/esotericsoftware/kryo/util/IdentityMap$Entries
+com/esotericsoftware/kryo/util/IdentityMap$Entry
+com/esotericsoftware/kryo/util/IdentityMap$Keys
+com/esotericsoftware/kryo/util/IdentityMap$MapIterator
+com/esotericsoftware/kryo/util/IdentityMap$Values
+com/esotericsoftware/kryo/util/IdentityObjectIntMap
+com/esotericsoftware/kryo/util/IntArray
+com/esotericsoftware/kryo/util/IntMap
+com/esotericsoftware/kryo/util/IntMap$Entries
+com/esotericsoftware/kryo/util/IntMap$Entry
+com/esotericsoftware/kryo/util/IntMap$Keys
+com/esotericsoftware/kryo/util/IntMap$MapIterator
+com/esotericsoftware/kryo/util/IntMap$Values
+com/esotericsoftware/kryo/util/ListReferenceResolver
+com/esotericsoftware/kryo/util/MapReferenceResolver
+com/esotericsoftware/kryo/util/ObjectMap
+com/esotericsoftware/kryo/util/ObjectMap$Entries
+com/esotericsoftware/kryo/util/ObjectMap$Entry
+com/esotericsoftware/kryo/util/ObjectMap$Keys
+com/esotericsoftware/kryo/util/ObjectMap$MapIterator
+com/esotericsoftware/kryo/util/ObjectMap$Values
+com/esotericsoftware/kryo/util/UnsafeUtil
+com/esotericsoftware/kryo/util/UnsafeUtil$1
+com/esotericsoftware/kryo/util/Util
+com/esotericsoftware/kryonet/Client
+com/esotericsoftware/kryonet/ClientDiscoveryHandler
+com/esotericsoftware/kryonet/ClientDiscoveryHandler$1
+com/esotericsoftware/kryonet/Connection
+com/esotericsoftware/kryonet/EndPoint
+com/esotericsoftware/kryonet/FrameworkMessage
+com/esotericsoftware/kryonet/FrameworkMessage$DiscoverHost
+com/esotericsoftware/kryonet/FrameworkMessage$KeepAlive
+com/esotericsoftware/kryonet/FrameworkMessage$Ping
+com/esotericsoftware/kryonet/FrameworkMessage$RegisterTCP
+com/esotericsoftware/kryonet/FrameworkMessage$RegisterUDP
+com/esotericsoftware/kryonet/JsonSerialization
+com/esotericsoftware/kryonet/KryoNetException
+com/esotericsoftware/kryonet/KryoSerialization
+com/esotericsoftware/kryonet/Listener
+com/esotericsoftware/kryonet/Listener$LagListener
+com/esotericsoftware/kryonet/Listener$LagListener$1
+com/esotericsoftware/kryonet/Listener$QueuedListener
+com/esotericsoftware/kryonet/Listener$QueuedListener$1
+com/esotericsoftware/kryonet/Listener$QueuedListener$2
+com/esotericsoftware/kryonet/Listener$QueuedListener$3
+com/esotericsoftware/kryonet/Listener$QueuedListener$4
+com/esotericsoftware/kryonet/Listener$ReflectionListener
+com/esotericsoftware/kryonet/Listener$ThreadedListener
+com/esotericsoftware/kryonet/Serialization
+com/esotericsoftware/kryonet/Server
+com/esotericsoftware/kryonet/Server$1
+com/esotericsoftware/kryonet/ServerDiscoveryHandler
+com/esotericsoftware/kryonet/ServerDiscoveryHandler$1
+com/esotericsoftware/kryonet/TcpConnection
+com/esotericsoftware/kryonet/UdpConnection
+com/esotericsoftware/kryonet/rmi/ObjectSpace
+com/esotericsoftware/kryonet/rmi/ObjectSpace$1
+com/esotericsoftware/kryonet/rmi/ObjectSpace$1$1
+com/esotericsoftware/kryonet/rmi/ObjectSpace$2
+com/esotericsoftware/kryonet/rmi/ObjectSpace$3
+com/esotericsoftware/kryonet/rmi/ObjectSpace$4
+com/esotericsoftware/kryonet/rmi/ObjectSpace$CachedMethod
+com/esotericsoftware/kryonet/rmi/ObjectSpace$InvokeMethod
+com/esotericsoftware/kryonet/rmi/ObjectSpace$InvokeMethodResult
+com/esotericsoftware/kryonet/rmi/ObjectSpace$RemoteInvocationHandler
+
+== URL TROVATI NELLE STRINGHE DEL CODICE ==
+http://www.boehmod.net/download/   <- net/decimation/mod/client/gui/menu/Gui_Updating
+http://www.boehmod.net/serverfiles/decimation/missingmotd.png   <- net/decimation/mod/server/ConfigServer, net/decimation/mod/server/VariablesServer
+http://www.slf4j.org/codes.html   <- org/slf4j/LoggerFactory
+http://www.slf4j.org/codes.html#StaticLoggerBinder   <- org/slf4j/LoggerFactory
+http://www.slf4j.org/codes.html#loggerNameMismatch   <- org/slf4j/LoggerFactory
+http://www.slf4j.org/codes.html#multiple_bindings   <- org/slf4j/LoggerFactory
+http://www.slf4j.org/codes.html#no_static_mdc_binder   <- org/slf4j/MDC
+http://www.slf4j.org/codes.html#null_LF   <- org/slf4j/LoggerFactory
+http://www.slf4j.org/codes.html#null_MDCA   <- org/slf4j/MDC
+http://www.slf4j.org/codes.html#replay   <- org/slf4j/LoggerFactory
+http://www.slf4j.org/codes.html#substituteLogger   <- org/slf4j/LoggerFactory
+http://www.slf4j.org/codes.html#unsuccessfulInit   <- org/slf4j/LoggerFactory
+http://www.slf4j.org/codes.html#version_mismatch   <- org/slf4j/LoggerFactory
+https://boehmod.buycraft.net   <- net/decimation/mod/client/ClientReferences
+https://cdn.discordapp.com/app-assets/   <- net/dv8tion/jda/core/entities/RichPresence$Image
+https://cdn.discordapp.com/app-icons/   <- net/dv8tion/jda/bot/entities/impl/ApplicationInfoImpl, net/dv8tion/jda/client/entities/impl/ApplicationImpl, net/dv8tion/jda/client/entities/impl/AuthorizedApplicationImpl
+https://cdn.discordapp.com/avatars/   <- net/dv8tion/jda/client/entities/impl/ApplicationImpl$BotImpl, net/dv8tion/jda/core/entities/impl/UserImpl, net/dv8tion/jda/core/utils/WidgetUtil$Widget$Member
+https://cdn.discordapp.com/avatars/%s/%s%s   <- net/dv8tion/jda/core/events/self/SelfUpdateAvatarEvent, net/dv8tion/jda/core/events/user/update/UserUpdateAvatarEvent
+https://cdn.discordapp.com/channel-icons/   <- net/dv8tion/jda/client/entities/impl/GroupImpl, net/dv8tion/jda/client/events/group/update/GroupUpdateIconEvent
+https://cdn.discordapp.com/emojis/   <- net/dv8tion/jda/core/entities/Emote
+https://cdn.discordapp.com/icons/   <- net/dv8tion/jda/core/entities/impl/GuildImpl, net/dv8tion/jda/core/entities/impl/InviteImpl$GuildImpl, net/dv8tion/jda/core/events/guild/update/GuildUpdateIconEvent
+https://cdn.discordapp.com/splashes/   <- net/dv8tion/jda/core/entities/impl/GuildImpl, net/dv8tion/jda/core/entities/impl/InviteImpl$GuildImpl, net/dv8tion/jda/core/events/guild/update/GuildUpdateSplashEvent
+https://crafatar.com/skins/%s.png   <- net/decimation/mod/client/AbstractClientPlayerDeci, net/decimation/mod/client/gui/utilities/GuiUtils
+https://discord.gg/   <- net/dv8tion/jda/core/entities/Invite
+https://discordapp.com/api/v%d/   <- net/dv8tion/jda/core/requests/Requester
+https://discordapp.com/api/v6/webhooks/%s/%s   <- net/dv8tion/jda/webhook/WebhookClient
+https://discordapp.com/assets/   <- net/dv8tion/jda/core/entities/impl/UserImpl, net/dv8tion/jda/core/utils/WidgetUtil$Widget$Member
+https://discordapp.com/oauth2/authorize?client_id=   <- net/dv8tion/jda/bot/entities/impl/ApplicationInfoImpl, net/dv8tion/jda/client/entities/impl/ApplicationImpl$BotImpl
+https://discordapp.com/oauth2/authorize?scope=bot&client_id=   <- net/dv8tion/jda/bot/entities/impl/JDABotImpl
+https://discordapp.com/widget?id=%s&theme=%s   <- net/dv8tion/jda/core/utils/WidgetUtil
+https://git.io/vrFWP   <- net/dv8tion/jda/core/requests/WebSocketClient
+https://github.com/DV8FromTheWorld/JDA   <- net/dv8tion/jda/core/JDAInfo, net/dv8tion/jda/webhook/WebhookClient
+https://github.com/DV8FromTheWorld/JDA,   <- net/dv8tion/jda/core/requests/Requester
+https://github.com/ScottehBoeh/DecimationRelease/releases/download/   <- net/decimation/mod/utilities/utils/Utils_Updater
+https://github.com/ScottehBoeh/DecimationRelease/releases/download/1.10.7/DeciResourcePack.zip   <- net/decimation/mod/utilities/utils/Utils_Updater$3
+https://github.com/ScottehBoeh/DecimationRelease/releases/download/1.10.7/DecimationVoiceChat.jar   <- net/decimation/mod/utilities/utils/Utils_Updater
+https://i.scdn.co/image/   <- net/dv8tion/jda/core/entities/RichPresence$Image
+https://raw.githubusercontent.com/ScottehBoeh/DecimationRelease/master/latestversion.txt   <- net/decimation/mod/utilities/utils/Utils_Updater
+https://static-cdn.jtvnw.net/previews-ttv/live_user_%s-108x60.jpg   <- net/dv8tion/jda/core/entities/RichPresence$Image
+https://www.boehmod.com   <- net/decimation/mod/client/ClientReferences
+https://www.boehmod.net   <- net/decimation/mod/common/VariablesCommon
+https://www.boehmodhosting.com   <- net/decimation/mod/client/ClientReferences
+https://www.discord.gg/boehmod   <- net/decimation/mod/client/ClientReferences
+https://www.twitter.com/BoehMod   <- net/decimation/mod/client/ClientReferences
+
+== HOST (nomi di dominio) TROVATI NELLE STRINGHE DEL CODICE ==
+com.mysql.cj.testsuite.ds.host   <- com/mysql/cj/conf/PropertyDefinitions
+com.mysql.cj.testsuite.unavailable.host   <- com/mysql/cj/conf/PropertyDefinitions
+eu.mcdecimation.net   <- net/decimation/mod/client/gui/menu/Gui_Menu_ServerStatus, net/decimation/mod/client/gui/utilities/mainmenuutils/ServersManager
+java.vm.info   <- org/objenesis/strategy/PlatformDescription
+network.mcdecimation.net   <- net/decimation/mod/Decimation, net/decimation/mod/client/gui/menu/Gui_Menu_ServerStatus
+us.mcdecimation.net   <- net/decimation/mod/client/gui/menu/Gui_Menu_ServerStatus, net/decimation/mod/client/gui/utilities/mainmenuutils/ServersManager
+www.BoehMod.com   <- net/decimation/mod/client/gui/menu/GuiCustomMainMenu
+www.boehmod.com   <- net/decimation/mod/client/gui/menu/GuiCustomMainMenu, net/decimation/mod/client/gui/menu/Gui_Menu_ServerStatus
+www.mcdecimation.net   <- net/decimation/mod/client/presence/DecimationPresence
+
+== INDIRIZZI IP TROVATI NELLE STRINGHE DEL CODICE ==
+176.31.206.52   <- net/decimation/mod/client/gui/menu/GuiCustomMainMenu
+
+== STRINGHE INTERESSANTI NELLE CLASSI DI MENU/RETE ==
+-- com/boehmod/lib/network/api/ServerNetworkConnection
+   'Created new Management Server Instance on ports TCP/UDP:'
+-- com/boehmod/lib/network/api/messages/Request_FromClient_ServerList
+   'GiveMeServerList'
+-- com/esotericsoftware/kryo/Kryo
+   'An existing registration with a different type already uses ID:'
+   'Existing registration:'
+   'Unable to set registration:'
+   'No registration IDs are available.'
+   'Class is not registered:'
+   'Note: To register this class use: kryo.register('
+   'kryo'
+   'Kryo must not be accessed concurrently by multiple threads.'
+   'Registration required:'
+-- com/esotericsoftware/kryo/Registration
+   'kryo'
+   'Update registered serializer:'
+-- com/esotericsoftware/kryo/io/InputChunked
+   'kryo'
+-- com/esotericsoftware/kryo/io/OutputChunked
+   'kryo'
+-- com/esotericsoftware/kryo/serializers/BeanSerializer
+   'kryo'
+-- com/esotericsoftware/kryo/serializers/CompatibleFieldSerializer
+   'kryo'
+-- com/esotericsoftware/kryo/serializers/DefaultArraySerializers$ObjectArraySerializer
+   'kryo'
+-- com/esotericsoftware/kryo/serializers/FieldSerializer
+   'kryo'
+   'com.esotericsoftware.kryo.serializers.UnsafeCachedFieldFactory'
+   'com.esotericsoftware.kryo.util.UnsafeUtil'
+-- com/esotericsoftware/kryo/serializers/FieldSerializerGenericsUtil
+   'kryo'
+   'Trying to use kryo.getGenericScope'
+-- com/esotericsoftware/kryo/serializers/FieldSerializerUnsafeUtil$Factory
+   'com.esotericsoftware.kryo.serializers.FieldSerializerUnsafeUtilImpl'
+-- com/esotericsoftware/kryo/serializers/FieldSerializerUnsafeUtilImpl
+   'kryo'
+-- com/esotericsoftware/kryo/serializers/ObjectField
+   'kryo'
+-- com/esotericsoftware/kryo/serializers/TaggedFieldSerializer
+   'kryo'
+-- com/esotericsoftware/kryo/util/DefaultClassResolver
+   'registration cannot be null.'
+   'kryo'
+   'Register class ID'
+   'Register class name:'
+   'Encountered unregistered class ID:'
+-- com/esotericsoftware/kryo/util/UnsafeUtil
+   'kryo'
+-- com/esotericsoftware/kryo/util/Util
+   'kryo'
+-- com/esotericsoftware/kryonet/Client
+   "Cannot connect on the connection's update thread."
+   'Connected, but timed out during TCP registration.\nNote: Client#update must be called in a separate thread during connect.'
+   'Connected, but timed out during UDP registration:'
+   'kryonet'
+   'received TCP: RegisterTCP'
+   'received UDP: RegisterUDP'
+   'Unable to update connection:'
+   'Unable to update connection.'
+   'update:'
+   'Discovered server:'
+-- com/esotericsoftware/kryonet/Connection
+   'kryonet'
+-- com/esotericsoftware/kryonet/JsonSerialization
+   'RegisterTCP'
+   'RegisterUDP'
+-- com/esotericsoftware/kryonet/Listener$ReflectionListener
+   'kryonet'
+-- com/esotericsoftware/kryonet/Server
+   'kryonet'
+   'Server opened.'
+   'update:'
+   'Error reading UDP from unregistered address:'
+   'Ignoring incoming RegisterUDP with invalid connection ID:'
+   'Ignoring UDP from unregistered address:'
+   'Server thread started.'
+   'Error updating server connections.'
+   'Server thread stopped.'
+   'Server'
+   'Server thread stopping.'
+   'Server listener added:'
+   'Server listener removed:'
+   'Closing server connections...'
+   'Server closed.'
+   'Unable to close server.'
+-- com/esotericsoftware/kryonet/TcpConnection
+   'kryonet'
+-- com/esotericsoftware/kryonet/UdpConnection
+   'kryonet'
+-- com/esotericsoftware/kryonet/rmi/ObjectSpace
+   'kryonet'
+   'Object registered with ObjectSpace as'
+-- com/esotericsoftware/kryonet/rmi/ObjectSpace$1
+   'kryonet'
+-- com/esotericsoftware/kryonet/rmi/ObjectSpace$4
+   'kryonet'
+-- com/esotericsoftware/kryonet/rmi/ObjectSpace$RemoteInvocationHandler
+   'kryonet'
+   "Cannot wait for an RMI response on the connection's update thread."
+-- com/mysql/cj/NativeSession
+   'collation_server'
+   'server_version_string'
+   '@@session.auto_increment_increment AS auto_increment_increment'
+   ', @@character_set_server AS character_set_server'
+   ', @@collation_server AS collation_server'
+   'SESSION'
+-- com/mysql/cj/ServerPreparedQuery
+   'ServerPreparedStatement.11'
+   'ServerPreparedStatement.12'
+   'ServerPreparedStatement.15'
+   'ServerPreparedStatement.15a'
+   'ServerPreparedStatement.16'
+   'ServerPreparedStatement.18'
+   'ServerPreparedStatement.25'
+   'ServerPreparedStatement.24'
+-- com/mysql/cj/ServerPreparedQueryBindValue
+   'ServerPreparedStatement.22'
+-- com/mysql/cj/ServerPreparedQueryBindings
+   'ServerPreparedStatement.13'
+   'ServerPreparedStatement.14'
+   'ServerPreparedStatement.28'
+   'ServerPreparedStatement.29'
+   'ServerPreparedStatement.30'
+-- com/mysql/cj/admin/ServerController
+   'Server already started'
+-- com/mysql/cj/conf/ConnectionUrl$Type
+   'XDEVAPI_SESSION'
+-- com/mysql/cj/conf/ConnectionUrlParser
+   'authority'
+   ':: {scheme: "%s", authority: "%s", path: "%s", query: "%s", parsedHosts: %s, parsedProperties: %s}'
+   '(?<scheme>[\\w:%]+)\\s*(?://(?<authority>[^/?#]*))?\\s*(?:/(?!\\s*/)(?<path>[^?#]*))?(?:\\?(?!\\s*\\?)(?<query>[^#]*))?(?:\\s*#(?<fragment>.*))?'
+-- com/mysql/cj/conf/PropertyDefinitions
+   'ConnectionProperties.categoryAuthentication'
+   'ConnectionProperties.categorySession'
+   'ConnectionProperties.serverRSAPublicKeyFile'
+   'ConnectionProperties.serverConfigCacheFactory'
+   'ConnectionProperties.cacheServerConfiguration'
+   'ConnectionProperties.compensateOnDuplicateKeyUpdateCounts'
+   'ConnectionProperties.useServerPrepStmts'
+   'ConnectionProperties.loadBalanceValidateConnectionOnSwapServer'
+   'ConnectionProperties.maintainTimeStats'
+   'ConnectionProperties.serverTimezone'
+   'ConnectionProperties.sessionVariables'
+   'ConnectionProperties.strictUpdates'
+   'ConnectionProperties.useLocalSessionState'
+   'ConnectionProperties.useOnlyServerErrorMessages'
+   'ConnectionProperties.verifyServerCertificate'
+   'ConnectionProperties.authenticationPlugins'
+   'ConnectionProperties.disabledAuthenticationPlugins'
+   'com.mysql.cj.protocol.a.authentication.MysqlNativePasswordPlugin'
+   'ConnectionProperties.defaultAuthenticationPlugin'
+   'ConnectionProperties.dontCheckOnDuplicateKeyUpdateInSQL'
+   'ConnectionProperties.readOnlyPropagatesToServer'
+   'ConnectionProperties.auth'
+   'ConnectionProperties.serverAffinityOrder'
+   'com.mysql.cj.testsuite.serverController.basedir'
+-- com/mysql/cj/jdbc/ConnectionImpl
+   '@@session.transaction_isolation'
+   '@@session.tx_isolation'
+   '@@session.autocommit'
+   '@@session.transaction_read_only'
+   '@@session.tx_read_only'
+   'set session transaction'
+   'SET SESSION TRANSACTION ISOLATION LEVEL READ COMMITTED'
+   'SET SESSION TRANSACTION ISOLATION LEVEL READ UNCOMMITTED'
+   'SET SESSION TRANSACTION ISOLATION LEVEL REPEATABLE READ'
+   'SET SESSION TRANSACTION ISOLATION LEVEL SERIALIZABLE'
+-- com/mysql/cj/jdbc/ServerPreparedStatement
+   'ServerPreparedStatement.6'
+   'ServerPreparedStatement.2'
+   'ServerPreparedStatement.3'
+   'ServerPreparedStatement.7'
+   'ServerPreparedStatement.8'
+   'ServerPreparedStatement.9'
+   'ServerPreparedStatement.10'
+   'ServerPreparedStatement.26'
+   'ServerPreparedStatement.27'
+-- com/mysql/cj/jdbc/ha/LoadBalancedConnectionProxy
+   'serverAffinity'
+-- com/mysql/cj/jdbc/ha/MultiHostConnectionProxy
+   'getSessionMaxRows'
+-- com/mysql/cj/jdbc/interceptors/ServerStatusDiffInterceptor
+   'Server status change for query:'
+   'SHOW SESSION STATUS'
+-- com/mysql/cj/jdbc/interceptors/SessionAssociationInterceptor
+   'SET @mysql_proxy_session=?'
+-- com/mysql/cj/protocol/a/DebugBufferingPacketReader
+   'Server'
+-- com/mysql/cj/protocol/a/DebugBufferingPacketSender
+   '--------------------> Server'
+-- com/mysql/cj/protocol/a/NativeAuthenticationProvider
+   'CLIENT_PLUGIN_AUTH is required'
+   'AuthenticationProvider.BadDefaultAuthenticationPlugin'
+   'AuthenticationProvider.BadAuthenticationPlugin'
+   'AuthenticationProvider.DefaultAuthenticationPluginIsNotListed'
+   'AuthenticationProvider.BadDisabledAuthenticationPlugin'
+   'AuthenticationProvider.AuthenticationPluginRequiresSSL'
+   'AuthenticationProvider.UnexpectedAuthenticationApproval'
+   'CommunicationsException.TooManyAuthenticationPluginNegotiations'
+-- com/mysql/cj/protocol/a/NativeServerSession
+   'character_set_server'
+-- com/mysql/cj/protocol/a/TracingPacketSender
+   "' serverThreadId: '"
+-- com/mysql/cj/protocol/a/authentication/CachingSha2PasswordPlugin
+   'Unknown server response after fast auth.'
+-- com/mysql/cj/protocol/a/authentication/CachingSha2PasswordPlugin$AuthStage
+   'FAST_AUTH_SEND_SCRAMBLE'
+   'FAST_AUTH_READ_RESULT'
+   'FAST_AUTH_COMPLETE'
+   'FULL_AUTH'
+-- com/mysql/cj/protocol/x/XAuthenticationProvider
+   'PLAIN authentication is not allowed via unencrypted connection.'
+   "Unknown authentication mechanism '"
+   'Authentication failed using'
+-- com/mysql/cj/protocol/x/XServerCapabilities
+   'authentication.mechanisms'
+-- com/mysql/cj/x/protobuf/Mysqlx$ServerMessages$Type
+   'SESS_AUTHENTICATE_CONTINUE'
+   'SESS_AUTHENTICATE_OK'
+-- com/mysql/cj/x/protobuf/MysqlxSession
+   'AuthData'
+-- com/mysql/cj/xdevapi/SessionImpl
+   'XSession.0'
+-- com/neovisionaries/ws/client/SocketConnector
+   'Handshake with the proxy server (%s) failed: %s'
+-- net/decimation/mod/Decimation
+   'options.txt'
+   'Downloading options file from Server...'
+   'Looting System disabled! Not loading loot! (Is there an update?)'
+   'Registering Client-side Message Listener...'
+   'Registering Server-side Message Listener...'
+   'Attempting to Register Server-based Commands:'
+-- net/decimation/mod/client/ClientReferences
+   'textures/gui/menu/boehmod.png'
+   'gui.menu.music'
+   'gui.menu.music_battlegrounds'
+   'textures/gui/menu/banner_battlegrounds.png'
+   'textures/gui/menu/banner.png'
+-- net/decimation/mod/client/gui/api/GuiDropDownMenuCommunity
+   'Catch up on the latest twitter updates!'
+-- net/decimation/mod/client/gui/api/GuiServerSlot
+   'servers/'
+   'textures/gui/menu/unreachable.png'
+-- net/decimation/mod/client/gui/ingame/GuiIngameStats
+   'textures/gui/ingame/statsbg.png'
+-- net/decimation/mod/client/gui/menu/GuiCustomMainMenu
+   'textures/gui/menu/home.png'
+   'textures/gui/menu/lan.png'
+   'textures/gui/menu/achivements.png'
+   'textures/gui/menu/banner.png'
+   'menu.update.par1'
+   'menu.update.par2'
+   'menu.check.invalidsession'
+   'menu.check.invalidsession.tip.modpack'
+   'menu.check.invalidsession.tip'
+   'menu.check.invalidsession.extra'
+   'menu.prompt.update'
+   'menu.prompt.update2'
+   'menu.prompt.shutdown'
+   'menu.prompt.shutdown2'
+   'menu.button.update'
+   'Update Game!'
+   'menu.button.backtogame'
+   'menu.button.play'
+   'menu.button.playoffline'
+   'menu.button.exit'
+   'Open Singleplayer World to'
+   'menu.button.disconnect'
+   'menu.button.community'
+   'menu.button.serverstatus'
+   'View Server Status!'
+   'menu.button.settings'
+   'Menu'
+-- net/decimation/mod/client/gui/menu/Gui_Menu_Home
+   'Main Menu'
+   '★ Supporter'
+   'Is not a Supporter :('
+   'menu.notification.welcome1'
+   'menu.notification.welcome2'
+   'menu.notification.welcome3'
+   'menu.notification.welcome4'
+   'gui.menu.notification.open'
+   'gui.menu.notification.close'
+   'menu.loading'
+   'textures/gui/menu/banner_intro.png'
+-- net/decimation/mod/client/gui/menu/Gui_Menu_Intro
+   'textures/gui/menu/banner_intro.png'
+   'textures/gui/menu/boehmod.png'
+   'gui.menu.intro'
+-- net/decimation/mod/client/gui/menu/Gui_Menu_Options
+   'options.multiplayer.title'
+   'menu.button.forceupdate'
+   'menu.button.reloadconfig'
+   'menu.button.download.resourcepack'
+   'menu.prompt.update'
+   'menu.prompt.update2'
+   'menu.button.download.resourcepack.credit'
+   'menu.button.download.resourcepack.credit2'
+-- net/decimation/mod/client/gui/menu/Gui_Menu_Profile
+   'Emblem Author:'
+   'menu.button.update'
+   'Update Game!'
+   'menu.button.backtogame'
+   'menu.button.play'
+   'menu.button.playoffline'
+   'menu.button.exit'
+   'menu.button.disconnect'
+   'menu.button.community'
+   'menu.button.serverstatus'
+   'View Server Status!'
+   'menu.button.settings'
+-- net/decimation/mod/client/gui/menu/Gui_Menu_ServerStatus
+   'EU Servers'
+   'EU Minecraft Servers for Decimation'
+   'US Servers'
+   'US Minecraft Servers for Decimation'
+   'Official Decimation Management Server'
+   'Server/Network Status'
+-- net/decimation/mod/client/gui/menu/Gui_Menu_ServersList
+   'Official Server List'
+   'Singleplayer'
+   'Other servers'
+   'Server(s)'
+   'Official Game Servers'
+   'menu.stats.playercount'
+   'menu.stats.playercount.unknown'
+   'textures/gui/menu/icon_'
+   'menu.stats.serverlist.empty'
+   'menu.button.refresh'
+   'menu.button.community'
+   'menu.button.serverstatus'
+   'View Server Status!'
+   'menu.button.settings'
+   'menu.button.exit'
+   'Official Decimation Server'
+-- net/decimation/mod/client/gui/menu/Gui_Menu_ServersList_Community
+   'Community Server List'
+   'Singleplayer'
+   'Other servers'
+   'Server(s)'
+   'Official Game Servers'
+   'textures/gui/menu/icon_online.png'
+   'menu.button.refresh'
+   'menu.button.community'
+   'menu.button.serverstatus'
+   'View Server Status!'
+   'menu.button.settings'
+   'menu.button.exit'
+   'Community Server'
+-- net/decimation/mod/client/gui/menu/Gui_Menu_Supporter
+   '⭐ Supporters Lounge'
+   'Cape Author:'
+   'textures/model/cape/cape_supporter_'
+   'menu.button.update'
+   'Update Game!'
+   'menu.button.backtogame'
+   'menu.button.play'
+   'menu.button.playoffline'
+   'menu.button.exit'
+   'menu.button.disconnect'
+   'menu.button.community'
+   'menu.button.serverstatus'
+   'View Server Status!'
+   'menu.button.settings'
+-- net/decimation/mod/client/gui/menu/Gui_Updating
+   'menu.updating.donotclose'
+   'menu.updating.paragraph1'
+   'menu.updating.paragraph2'
+   'menu.updating.downloading'
+   'textures/gui/menu/banner_intro.png'
+   'textures/gui/menu/greenflare.png'
+-- net/decimation/mod/client/gui/utilities/GuiUtils
+   'textures/gui/menu/sideshadow.png'
+   'textures/gui/menu/background'
+   'textures/gui/menu/background_fog.png'
+-- net/decimation/mod/client/managers/Manager_Authentication
+   'Session validation successful!'
+   'Session validation failed:'
+   'Session validation failed'
+-- net/decimation/mod/client/managers/Manager_Authentication$Sessionutil
+   'session'
+-- net/decimation/mod/client/presence/DecimationPresence
+   'supporter'
+   '(Special Supporter)'
+   '(Not Supporter)'
+-- net/decimation/mod/common/VariablesCommon
+   '/serverfiles/decimation/'
+-- net/decimation/mod/server/ConfigServer
+   'Initializing Server-side Decimation Config...'
+   'decimation_server.properties'
+   'serverType'
+   'officialServerAuthCode'
+   'enableCommunityServerList'
+   'http://www.boehmod.net/serverfiles/decimation/missingmotd.png'
+   'disableUpdates'
+   'serverFogDensity'
+   'serverFogRainDensity'
+-- net/decimation/mod/server/VariablesServer
+   'http://www.boehmod.net/serverfiles/decimation/missingmotd.png'
+-- net/decimation/mod/server/clans/ClanCommands
+   '- Save all cached Server Clan Data'
+-- net/decimation/mod/server/clans/ClanManager
+   '.json'
+   'userData.json'
+   'userInvites.json'
+-- net/decimation/mod/server/commands/Command_DiscordAuthCode
+   'getAuth'
+   '/getAuth'
+-- net/decimation/mod/server/commands/Command_DiscordAuthCode$1
+   'Requesting Authcode for'
+   'You must be on an Online-Mode Server to use this Command!'
+-- net/decimation/mod/server/commands/Command_RSpawn
+   'You must be on a Server to use that Command!'
+-- net/decimation/mod/server/commands/Command_Server
+   'deciserver'
+   'Unknown Deci-Server command. Try'
+   '/deciserver help'
+   'for all server commands'
+   '<--- Deci-Server Commands: (Page 1/1) --->'
+   '/deciserver reload'
+   '- Reload server config'
+   '/deciserver update'
+   '- Update server to latest version'
+   '/deciserver forceupdate'
+   '- Force-Update server to latest version'
+   '/deciserver check'
+   '- Check for new deci updates'
+   '/deciserver supplydropspawn'
+   '/deciserver addsupplydropspawn'
+   '/deciserver undosupplydropspawn'
+   '/deciserver addplayerspawn'
+   '/deciserver undoplayerspawn'
+   'update'
+   'forceupdate'
+   'Reloading Decimation server config...'
+   'Successfully reloaded Decimation server config!'
+   'UpdateCheckThread'
+   'Updating Decimation Server to v'
+   '(Server will Shut-down when update is complete!)'
+   '(Server is already running the latest (known) version!)'
+-- net/decimation/mod/server/commands/Command_Server$1
+   'Update for Decimation is available! ('
+   '/deciserver update'
+   'to update)'
+-- net/decimation/mod/server/commands/Command_Supporter
+   'supporter'
+-- net/decimation/mod/server/commands/Command_Update
+   'forceupdate'
+   '/forceupdate'
+   'Updating Server!'
+   '(Server will Shut-down when update is complete!)'
+   'You must be on a Server to use this Command!'
+-- net/decimation/mod/server/handlers/Handler_Server_Events
+   'You cannot break blocks on this server!'
+   'You cannot place blocks on this server!'
+   'Server has'
+   'server-icon.png'
+   'No server icon! Downloading official Decimation one!'
+   "Failed to grab server icon! You'll have to create your own!"
+   'A new update is Available for Decimation!'
+-- net/decimation/mod/server/managers/Manager_CommunityServerList
+   'Not adding server to official server list! (Disabled in config)'
+-- net/decimation/mod/server/managers/Manager_CommunityServerList$1
+   'server.properties'
+   'server-ip'
+   'Adding server to official list! (IP:'
+   'Failed to add server to official list! (IP:'
+-- net/decimation/mod/server/managers/Manager_Supply_Drops
+   'Config file MUST include at least 1 set of coordinates or server will crash!'
+-- net/decimation/mod/server/traders/TraderManager
+   'decimation_traders.json'
+-- net/decimation/mod/server/turf/TurfManager
+   'decimation_turfs.json'
+   'Updating server turfs from turf file...'
+   'Turf update complete!'
+-- net/decimation/mod/server/zones/ZoneManager
+   'decimation_zones.json'
+-- net/decimation/mod/utilities/net/client_network/MessageListener_Client
+   'Received Discord Auth Code from Server!'
+   'Auth Code received!'
+   'Your Discord Auth Code is:'
+   'New Deci update detected! (v'
+-- net/decimation/mod/utilities/net/client_network/MessageListener_Server
+   'a Supporter?'
+   'Received the Discord Auth Code from Management Server! Thanks!'
+   'Copied Discord Auth Code to Clipboard! Paste in'
+   'Checking status of community server list...'
+-- net/decimation/mod/utilities/utils/Utils_Updater
+   'Requesting Download from Management Server...'
+   'Failed to request download from Management Server! Are you connected?'
+   'https://raw.githubusercontent.com/ScottehBoeh/DecimationRelease/master/latestversion.txt'
+   'https://github.com/ScottehBoeh/DecimationRelease/releases/download/'
+   'https://github.com/ScottehBoeh/DecimationRelease/releases/download/1.10.7/DecimationVoiceChat.jar'
+   'Failed to fetch latest version from github file!'
+   'Failed to request latest version from Management Server! Are you connected?'
+-- net/decimation/mod/utilities/utils/Utils_Updater$1
+   'Update failed! Try again later!'
+   'Complete! Server will restart shortly...'
+-- net/decimation/mod/utilities/utils/Utils_Updater$2
+   'menu.updating.complete'
+   'Update failed! Try again later!'
+-- net/decimation/mod/utilities/utils/Utils_Updater$3
+   'menu.updating.complete'
+   'https://github.com/ScottehBoeh/DecimationRelease/releases/download/1.10.7/DeciResourcePack.zip'
+-- net/dv8tion/jda/bot/entities/impl/ApplicationInfoImpl
+   'https://cdn.discordapp.com/app-icons/'
+   'https://discordapp.com/oauth2/authorize?client_id='
+-- net/dv8tion/jda/bot/entities/impl/JDABotImpl
+   'https://discordapp.com/oauth2/authorize?scope=bot&client_id='
+-- net/dv8tion/jda/client/entities/impl/ApplicationImpl
+   'https://cdn.discordapp.com/app-icons/'
+-- net/dv8tion/jda/client/entities/impl/ApplicationImpl$BotImpl
+   'https://cdn.discordapp.com/avatars/'
+   'https://discordapp.com/oauth2/authorize?client_id='
+-- net/dv8tion/jda/client/entities/impl/AuthorizedApplicationImpl
+   'https://cdn.discordapp.com/app-icons/'
+   'AuthorizedApplication('
+-- net/dv8tion/jda/client/entities/impl/GroupImpl
+   'https://cdn.discordapp.com/channel-icons/'
+-- net/dv8tion/jda/client/events/group/update/GroupUpdateIconEvent
+   'https://cdn.discordapp.com/channel-icons/'
+-- net/dv8tion/jda/client/handle/CallUpdateHandler
+   'Received a CALL_UPDATE for a Group/PrivateChannel that has not yet been cached. JSON: {}'
+   'Received a CALL_UPDATE for a Call that has not yet been cached. JSON: {}'
+-- net/dv8tion/jda/core/JDAInfo
+   'https://github.com/DV8FromTheWorld/JDA'
+-- net/dv8tion/jda/core/audio/AudioConnection
+   'Yeah.. So.. JDA received a UserSSRC update for an ssrc that already had a User set. Inform DV8FromTheWorld.\nChannelId: {} SSRC: {} oldId: {} newId: {}'
+-- net/dv8tion/jda/core/audio/hooks/ConnectionStatus
+   'CONNECTING_AWAITING_AUTHENTICATING'
+   'DISCONNECTED_AUTHENTICATION_FAILURE'
+-- net/dv8tion/jda/core/entities/Emote
+   'https://cdn.discordapp.com/emojis/'
+-- net/dv8tion/jda/core/entities/RichPresence$Image
+   'https://i.scdn.co/image/'
+   'https://static-cdn.jtvnw.net/previews-ttv/live_user_%s-108x60.jpg'
+   'https://cdn.discordapp.com/app-assets/'
+-- net/dv8tion/jda/core/entities/impl/GuildImpl
+   'https://cdn.discordapp.com/icons/'
+   'https://cdn.discordapp.com/splashes/'
+   'Provided MultiFactor Auth code'
+-- net/dv8tion/jda/core/entities/impl/InviteImpl$GuildImpl
+   'https://cdn.discordapp.com/icons/'
+   'https://cdn.discordapp.com/splashes/'
+-- net/dv8tion/jda/core/entities/impl/UserImpl
+   'https://cdn.discordapp.com/avatars/'
+-- net/dv8tion/jda/core/events/channel/category/update/GenericCategoryUpdateEvent
+   'CategoryUpdate['
+-- net/dv8tion/jda/core/events/channel/text/update/GenericTextChannelUpdateEvent
+   'TextChannelUpdate['
+-- net/dv8tion/jda/core/events/channel/voice/update/GenericVoiceChannelUpdateEvent
+   'VoiceChannelUpdate['
+-- net/dv8tion/jda/core/events/emote/update/GenericEmoteUpdateEvent
+   'EmoteUpdate['
+-- net/dv8tion/jda/core/events/guild/update/GenericGuildUpdateEvent
+   'GuildUpdate['
+-- net/dv8tion/jda/core/events/guild/update/GuildUpdateIconEvent
+   'https://cdn.discordapp.com/icons/'
+-- net/dv8tion/jda/core/events/guild/update/GuildUpdateSplashEvent
+   'https://cdn.discordapp.com/splashes/'
+-- net/dv8tion/jda/core/events/role/update/GenericRoleUpdateEvent
+   'RoleUpdate['
+-- net/dv8tion/jda/core/events/self/GenericSelfUpdateEvent
+   'SelfUserUpdate['
+-- net/dv8tion/jda/core/events/self/SelfUpdateAvatarEvent
+   'https://cdn.discordapp.com/avatars/%s/%s%s'
+-- net/dv8tion/jda/core/events/user/update/GenericUserUpdateEvent
+   'UserUpdate['
+-- net/dv8tion/jda/core/events/user/update/UserUpdateAvatarEvent
+   'https://cdn.discordapp.com/avatars/%s/%s%s'
+-- net/dv8tion/jda/core/handle/ChannelUpdateHandler
+   'CHANNEL_UPDATE attempted to update a TextChannel that does not exist. JSON: {}'
+   'CHANNEL_UPDATE attempted to update a VoiceChannel that does not exist. JSON: {}'
+   'CHANNEL_UPDATE attempted to update a Category that does not exist. JSON: {}'
+   'CHANNEL_UPDATE provided an unrecognized channel type JSON:'
+   "CHANNEL_UPDATE attempted to create or update a PermissionOverride for a Role that doesn't exist! RoleId: {} JSON: {}"
+   "CHANNEL_UPDATE attempted to create or update a PermissionOverride for Member that doesn't exist in this Guild! MemberId: {} JSON: {}"
+   'CHANNEL_UPDATE provided an unrecognized PermissionOverride type. JSON:'
+   'Received CHANNEL_UPDATE for a group that was not yet cached. JSON: {}'
+   'Received CHANNEL_UPDATE for a group with an owner_id for a user that is not cached. owner_id: {}'
+-- net/dv8tion/jda/core/handle/GuildMemberUpdateHandler
+   'Got GuildMember update but JDA currently does not have the Guild cached. {}'
+   'Got GuildMember update but Member is not currently present in Guild. {}'
+   'Got GuildMember update but one of the Roles for the Member is not yet cached.'
+-- net/dv8tion/jda/core/handle/GuildRoleUpdateHandler
+   'Received a Role Update for a Guild that is not yet cached: {}'
+   'Received a Role Update for Role that is not yet cached: {}'
+-- net/dv8tion/jda/core/handle/MessageUpdateHandler
+   'author'
+   'Received a message update for a channel that JDA does not currently have cached'
+   'Received a message update for a user that JDA does not currently have cached'
+   'Received a MESSAGE_UPDATE with a unknown MessageChannel ChannelType. JSON: {}'
+   'Received message update for embeds for a channel/group that JDA does not have cached yet.'
+   'Received a MESSAGE_UPDATE of type CALL: {}'
+-- net/dv8tion/jda/core/handle/PresenceUpdateHandler
+   'Received a PRESENCE_UPDATE for a guild that is not yet cached! GuildId:'
+-- net/dv8tion/jda/core/handle/VoiceServerUpdateHandler
+   'Attempted to create audio connection without having a session ID. Did VOICE_STATE_UPDATED fail?'
+-- net/dv8tion/jda/core/handle/VoiceStateUpdateHandler
+   'session_id'
+   'Received a VOICE_STATE_UPDATE for a Guild that has yet to be cached. JSON: {}'
+   'Received VOICE_STATE_UPDATE for a VoiceChannel that has yet to be cached. JSON: {}'
+   'Received VOICE_STATE_UPDATE for a Member that has yet to be cached. JSON: {}'
+   'Received a VOICE_STATE_UPDATE for a Group/PrivateChannel that was not yet cached! JSON: {}'
+   'Received a VOICE_STATE_UPDATE for a Call that is not yet cached. JSON: {}'
+   'Received a VOICE_STATE_UPDATE for a user joining a call, but the user was already in a different call! Big error! JSON: {}'
+   'Received a VOICE_STATE_UPDATE for a user that is not yet a a cached CallUser for the call. (groups only). JSON: {}'
+   'Received a VOICE_STATE_UPDATE for a User leaving a Call, but the Call was not yet cached! JSON: {}'
+-- net/dv8tion/jda/core/requests/Requester
+   'authorization'
+   'DiscordBot (https://github.com/DV8FromTheWorld/JDA,'
+-- net/dv8tion/jda/core/requests/WebSocketClient
+   'Failed to append new session to session controller queue. Shutting down!'
+   "You're running a session with over 2000 connected"
+   'Successfully resumed Session!'
+   'INVALIDATE_SESSION'
+   'Got disconnected from WebSocket (Internet?!)... Appending session to reconnect queue'
+   'Reconnect queue rejected session. Shutting down...'
+   'session_id'
+   'PRESENCE_UPDATE'
+   'Session can be recovered... Closing and sending new RESUME request'
+   'Caching PRESENCES_REPLACE event during init as PRESENCE_UPDATE dispatches!'
+   'CHANNEL_UPDATE'
+   'GUILD_EMOJIS_UPDATE'
+   'GUILD_MEMBER_UPDATE'
+   'GUILD_ROLE_UPDATE'
+   'GUILD_UPDATE'
+   'MESSAGE_UPDATE'
+   'USER_UPDATE'
+   'VOICE_SERVER_UPDATE'
+   'VOICE_STATE_UPDATE'
+   'CHANNEL_PINS_UPDATE'
+   'GUILD_INTEGRATIONS_UPDATE'
+   'WEBHOOKS_UPDATE'
+   'CALL_UPDATE'
+-- net/dv8tion/jda/core/utils/SessionControllerAdapter$2
+   'When verifying the authenticity of the provided token, Discord returned an unknown response:'
+-- net/dv8tion/jda/core/utils/SessionControllerAdapter$QueueWorker
+   'SessionControllerAdapter-Worker'
+-- net/dv8tion/jda/core/utils/WidgetUtil
+   'guilds/%s/widget.json'
+-- net/dv8tion/jda/core/utils/WidgetUtil$Widget$Member
+   'https://cdn.discordapp.com/avatars/'
+-- net/dv8tion/jda/webhook/WebhookClient
+   'JDA Webhook(https://github.com/DV8FromTheWorld/JDA |'
+-- okhttp3/internal/connection/RealConnection
+   'Failed to authenticate with proxy'
+-- okhttp3/internal/http2/Http2Connection
+   'OkHttp %s Push Observer'
+   'OkHttp Window Update %s stream %d'
